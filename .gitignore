@@ -15,3 +15,6 @@ images/icons/**
 /tables/
 /pages/compendium/
 /contrib_source/
+
+# enforce .gitkeep
+!.gitkeep
