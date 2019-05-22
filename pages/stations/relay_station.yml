@@ -1,0 +1,26 @@
+title: Shipment Relay
+subtitle:
+  en: Shipment Relay
+type: page
+icon: icons/stations/relay_station.png
+tech: shipment-relay
+version: 2019-05-10
+sourceVersion: 2019-05-10
+content:
+  - type: text
+    text: >
+      Enables automatic shipment delivery on a per-sector basis, for a limited amount of time.
+
+  - type: text
+    text:
+      en: >
+        The sectors that the Relay is controlling will have Credits Shipments delivered automatically over time. Upgrade the Relay to increase the amount of shipments and controlled sectors.
+      fr: --OMIT--
+  - type: text
+    text: >
+      The Relay requires Star Fragments to operate. They can be earned by participating in Blue Star missions.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: RelayStation
+

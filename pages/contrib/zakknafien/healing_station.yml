@@ -1,0 +1,46 @@
+title: "Exploit: Healing Station"
+subtitle: Healing Station
+type: page
+icon: contrib/zakknafien/healing.png
+# icon: icons/modules/support/salvage.png
+# Need a better icon
+content:
+  - type: title
+    text: Healing Station 101
+  - type: attrib
+    text: by Zakknafien
+  - type: image
+    image: contrib/zakknafien/healing.png
+  - type: text
+    text: >
+      The healing station will create a way to heal your salvage-equipped battleships in your system
+      quickly and at no cost.
+
+
+      There are two keys to the healing station; sanctuary, and the salvage module.
+      Sanctuary saves a ship from total destruction in a red star and sends it back to home star before exploding.
+      Salvage heals a percentage of the ship’s hull for every ship destroyed in the same sector.
+      See module descriptions for more details.
+
+
+      We are going to exploit a quirk of sanctuary to create an infinite loop of death and rebirth, which,
+      when paired with salvage, will heal our ships. In order for this loop to start, we must plant a
+      sacrificial ship into hostile territory, equipped with sanctuary. To do this we need to find a planet
+      with a Cerberus presence. Any cerb will do but I would suggest a base or a colossus, due to the
+      resiliency of said cerbs.
+
+
+      We must lure the cerb away (e.g. a guardian or colossus), clear them out (cerbs ships supporting a base), or
+      keep them occupied long enough to colonize the hostile planet.
+
+
+      Once that is done, we remove all friendly ships from the sector so we don’t cause
+      any further harm to one of the keys to our healing station. Cerb poised to attack and planet freshly
+      colonized, we must move our shipyard so that the newly colonized planet is the closest colonized planet
+      to the shipyard. Once the shipyard is the closest to the cerb planet, we simply send a ship with sanctuary
+      to the planet and voila, healing station. Ships can still go to and from the planet.
+      Shipments may be run as normal.
+
+
+      Salvage-equipped battleships can be healed by moving them into the
+      sector containing the healing station.

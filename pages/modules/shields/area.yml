@@ -1,0 +1,16 @@
+title: Area Shield
+subtitle: Area Shield
+type: page
+icon: icons/modules/shields/area1.png
+tech: area-shield
+content:
+  - type: text
+    text: >
+      Absorbs hull damage taken by any allied ship in the effect area, including Transports and Miners.
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 8+) artifacts.
+  - type: excel-table
+    filename: tables/shields.xlsx
+    sheet: Area
+

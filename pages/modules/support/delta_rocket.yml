@@ -1,0 +1,28 @@
+title: Delta Rocket
+subtitle: Delta Rocket
+type: page
+icon: icons/modules/support/deltarocket.png
+tech: delta-rocket
+content:
+  - type: text
+    text: >
+      A very fast Rocket that does area damage to all enemy ships when it reaches its final destination.
+      The owner can optionally set a second waypoint after the launch.
+
+  - type: text
+    text: >
+      Enemy ships can fire on the Rocket using normal targeting rules.
+      No damage is applied if the rocket is destroyed before it reaches its destination.
+
+  - type: text
+    text: >
+      Does not work in sectors with Jump Gates on White Stars.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 7+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: DeltaRocket
+

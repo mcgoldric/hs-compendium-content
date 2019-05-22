@@ -1,0 +1,16 @@
+title: Laser
+subtitle: Laser
+type: page
+icon: icons/modules/weapons/laser.png
+tech: laser
+content:
+  - type: text
+    text: >
+      A powerful weapon that does increasingly higher damage the longer it stays focused on a single target.
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 2+) artifacts.
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: Laser
+

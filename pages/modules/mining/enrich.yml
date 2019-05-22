@@ -1,0 +1,21 @@
+title: Enrich
+subtitle: Enrtich
+type: page
+icon: icons/modules/mining/enrich.png
+tech: enrich
+content:
+  - type: text
+    text: >
+      Instantly increases the amount of Hydrogen stored on all asteroids in the sector.
+
+  - type: text
+    text: >
+      Asteroids have a cap of 1500 hydrogen and a sector can only be enriched once, every 24hrs.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Enrich
+

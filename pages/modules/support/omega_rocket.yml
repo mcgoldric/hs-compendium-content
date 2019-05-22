@@ -1,0 +1,22 @@
+title: Omega Rocket
+subtitle: Omega Rocket
+type: page
+icon: icons/modules/support/omegarocket.png
+tech: omega-rocket
+content:
+
+  - type: text
+    text: >
+      A strong, slow Rocket that can be launched within a limited range and does massive Area damage to all enemy ships when it reaches its destination.
+
+  - type: text
+    text: >
+      Enemy ships can fire on the Rocket using normal targeting rules. The rocket still delivers a small amount of Area damage on a smaller radius to enemy ships if neutralized before reaching its destination.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 10+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: OmegaRocket
+

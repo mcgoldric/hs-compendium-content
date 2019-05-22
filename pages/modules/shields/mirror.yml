@@ -1,0 +1,16 @@
+title: Mirror Shield
+subtitle: Mirror Shield
+type: page
+icon: icons/modules/shields/mirror.png
+tech: mirror-shield
+content:
+  - type: text
+    text: >
+      Applies a percentage of the damage taken by this shield back to the attacker.
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 5+) artifacts.
+  - type: excel-table
+    filename: tables/shields.xlsx
+    sheet: Mirror
+

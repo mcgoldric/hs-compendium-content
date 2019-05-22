@@ -1,0 +1,9 @@
+# A comment
+title: Player Ships
+subtitle: Player Ships
+type: index
+icon: icons/ships/Battleship_lv5_rot.png
+items:
+  - pages/player_ships/transports.yml
+  - pages/player_ships/battleships.yml
+  - pages/player_ships/miners.yml

@@ -1,0 +1,18 @@
+title: Miner
+subtitle: Player Mining Ships
+type: page
+icon: icons/ships/Miner_lv5_rot.png
+headerImage: artwork/miner.jpg
+content:
+  - type: text
+    text: >
+      Miner ships can collect Hydrogen from asteroid fields.
+      Miners always cost 1 hydrogen to move, plus whatever additional cost is dictated by added modules.
+
+  - type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Miner
+
+
+
+

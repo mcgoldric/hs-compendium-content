@@ -1,0 +1,18 @@
+title: Battleships
+subtitle: Player Battleships
+type: page
+icon: icons/ships/Battleship_lv5_rot.png
+headerImage: artwork/battleship.jpeg
+content:
+  - type: text
+    text: >
+      A combat ship that can be equipped with weapons, a shield, and additional support modules.
+
+  - type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Battleship
+
+keywords:
+  - battleship
+  - fighter
+  - combat

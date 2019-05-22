@@ -1,0 +1,28 @@
+title: Cerberus Bomber
+subtitle: Cerberus Bomber
+type: page
+icon: icons/ships/bomber.png
+headerImage: artwork/bomber.jpeg
+content:
+  -
+    type: text
+    text: >
+      A strong ship that regularly fires one rocket towards each participating player that has ships in the bomber's sector or any adjacent sectors.
+  -
+    type: text
+    text: >
+      The ship will always stay in its assigned sector, but the Rockets can be fired on approaching ships in adjacent sectors.
+  -
+    type: text
+    text: >
+      This ship will always move away from your battleships.
+
+  -
+    type: text
+    text: >
+      In Red Stars, Areas under threat by a bomber can be automatically highlighted by selecting the toggle in the
+      Star Info page.
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Bomber

@@ -1,0 +1,19 @@
+title: Hydrogen Rocket
+subtitle: Hydrogen Rocket
+type: page
+icon: icons/modules/mining/hydrorocket.png
+tech: hydro-rocket
+content:
+  - type: text
+    text: >
+      Allows the miner ship to launch a powerful rocket, anywhere in the star system.
+
+  - type: text
+    text: >
+      To activate, the miner ship must have collected at least the required hydrogen amount. The hydrogen
+      is consumed on activation.
+
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: HydroRocket
+

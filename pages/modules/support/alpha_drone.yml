@@ -1,0 +1,20 @@
+title: Alpha Drone
+subtitle: Alpha Drone
+type: page
+icon: icons/modules/support/alphadrone.png
+tech: alpha-drone
+content:
+  - type: text
+    text: >
+      Launches a single drone towards a destination anywhere in the Star System.
+      The drone will automatically travel to the destination and stay there until destroyed
+      or its activation timer runs out. Does not work on sectors with Jump Gates in White Stars.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 9+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: AlphaDrone
+

@@ -1,0 +1,17 @@
+# A comment
+title: Trade Modules
+subtitle: Trade Modules
+type: index
+icon: icons/modules/trade/cargobayext.png
+items:
+  - pages/modules/trade/cargobay.yml
+  - pages/modules/trade/shipcomp.yml
+  - pages/modules/trade/tradeboost.yml
+  - pages/modules/trade/rush.yml
+  - pages/modules/trade/tradeburst.yml
+  - pages/modules/trade/shipment_drone.yml
+  - pages/modules/trade/offload.yml
+  - pages/modules/trade/shipment_beam.yml
+  - pages/modules/trade/entrust.yml
+  - pages/modules/trade/dispatch.yml
+  - pages/modules/trade/recall.yml

@@ -1,0 +1,26 @@
+title: Red Star Scanner
+subtitle: Red Star Scanner
+type: page
+icon: icons/stations/red_star_scanner.png
+content:
+  - type: text
+    text: >
+      Detects nearby Red Stars.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: RedStarScanner
+
+  - type: title
+    text: Red Star Levels
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: RedStarLevels
+
+  - type: title
+    text: Red Star Influence
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: RedStarInfluence

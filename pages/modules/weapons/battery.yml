@@ -1,0 +1,17 @@
+title: Battery
+subtitle: Battery
+type: page
+icon: icons/modules/weapons/battery.png
+tech: battery
+content:
+  - type: text
+    text: >
+      Does damage to a single target at a time.
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 1+) artifacts.
+
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: Battery
+

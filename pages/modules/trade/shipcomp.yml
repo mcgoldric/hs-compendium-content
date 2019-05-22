@@ -1,0 +1,20 @@
+title: Shipment Computer
+subtitle: Shipment Computer
+type: page
+icon: icons/modules/trade/shipcomputer.png
+tech: cpu
+content:
+  - type: text
+    text: >
+      Automatically picks up shipments from intermediate way-points, if those shipments' destination matches
+      any of the ship's subsequent way-points. Automatically picked up shipments add a bonus to their rewards.
+      This module prioritises the next way-point.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: CPU
+
+

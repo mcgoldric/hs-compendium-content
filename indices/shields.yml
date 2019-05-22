@@ -1,0 +1,13 @@
+# A comment
+title: Shields
+subtitle: Shields
+type: index
+icon: icons/modules/shields/omega.png
+items:
+  - pages/modules/shields/alpha.yml
+  - pages/modules/shields/delta.yml
+  - pages/modules/shields/passive.yml
+  - pages/modules/shields/omega.yml
+  - pages/modules/shields/mirror.yml
+  - pages/modules/shields/blast.yml
+  - pages/modules/shields/area.yml

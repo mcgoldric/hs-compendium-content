@@ -1,0 +1,18 @@
+title: Trade Station
+subtitle: Trade Station
+type: page
+icon: icons/stations/trade_station.png
+content:
+  - type: text
+    text: >
+      Creates and accepts shipments to and from your planets. Must be placed in an empty (of planets/trade stations) sector.
+
+  - type: text
+    text: >
+      You can build all 3 trade stations once you have a level 13 planet. They must be built from that planet,
+      within a 2 sector radius.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: TradeStation
+

@@ -1,0 +1,17 @@
+title: Short Range Scanner
+subtitle: Short Range Scanner
+type: page
+icon: icons/stations/short_range_scanner.png
+content:
+  - type: text
+    text: >
+      This scanner allows you to reveal adjacent sectors in your star system.
+
+  - type: text
+    text: >
+      Each scanner can reveal 3 adjacent sectors. ALWAYS place them adjacent to 3 unexplored sectors.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: ShortRangeScanner
+

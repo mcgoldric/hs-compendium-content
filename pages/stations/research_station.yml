@@ -1,0 +1,18 @@
+title: Research Station
+subtitle: Research Station
+type: page
+icon: icons/stations/research_station.png
+content:
+  - type: text
+    text: >
+      The research station can store and research Artifacts. Sent your Transport ship to the Research Station
+      to automatically deposit new Artifacts.
+
+  - type: text
+    text: >
+      Can also be used to salvage unwanted artifacts. You can salvage artifacts from transports parked at the station all at once.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: ResearchStation
+

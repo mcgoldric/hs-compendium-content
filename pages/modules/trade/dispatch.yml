@@ -1,0 +1,20 @@
+title: Dispatch
+subtitle: Dispatch
+type: page
+icon: icons/modules/trade/dispatch.png
+tech: dispatch
+content:
+  - type: text
+    text: >
+      The Transport ship initiates teleport to the planet with the most items
+      (Shipments, Artifacts or Relics) in the star system.
+      If more than one planets have the same amount of items, the farthest planet is picked.
+  - type: text
+    text: >
+      The Teleport completes after the preparation time elapses.
+      The preparation time is proportional to the amount of items on the target planet at the time of activation.
+
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Dispatch
+

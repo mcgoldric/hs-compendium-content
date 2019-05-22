@@ -1,0 +1,16 @@
+title: Sanctuary
+subtitle: Sanctuary
+type: page
+icon: icons/modules/support/sanctuary.png
+tech: sanctuary
+content:
+    - type: text
+      text: >
+        When the owner ship is about to be destroyed during combat or a Supernova, it jumps back to its home system instead.
+    - type: text
+      text: >
+        The blueprints can be found by researching Tetrahedron (level 3+) artifacts.
+    - type: excel-table
+      filename: tables/support.xlsx
+      sheet: Sanctuary
+

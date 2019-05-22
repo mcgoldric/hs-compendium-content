@@ -1,0 +1,18 @@
+title: Diplomacy Station
+subtitle: Diplomacy Station
+type: page
+icon: icons/stations/diplomacy_station.png
+content:
+  - type: text
+    text: >
+      Allows establishing diplomatic relations with 1 other player.
+
+  - type: text
+    text: >
+      Diplomacy stations can be used to exchange hydrogen and artifacts with other players. It can also be used to provide support
+      for eliminating Cerberus forces in a Yellow Star system.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: Diplo
+

@@ -1,0 +1,17 @@
+title: Shipment Beam
+subtitle: Shipment Beam
+type: page
+icon: icons/modules/trade/shipmentbeam.png
+tech: shipment-beam
+content:
+  - type: text
+    text: >
+      Instantly loads the lowest value shipments from any target outpost in the star system. Does not work with Artifacts.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 6+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: ShipmentBeam
+
+

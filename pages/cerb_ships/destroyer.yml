@@ -1,0 +1,24 @@
+title: Cerberus Destroyer
+subtitle: Cerberus Destroyer
+type: page
+icon: icons/ships/Cerberus_Destroyer_rot.png
+headerImage: artwork/destroyer.jpeg
+content:
+  -
+    type: text
+    text: >
+      These mysterious Cerberus ships are known to jump in Red Stars and destroy entire
+      planets with their powerful beams.
+  -
+    type: text
+    text: >
+      When the Destroyer is defeated or a planet destroyed, area damage will be applied to all nearby
+      player ships.
+  -
+    type: text
+    text: >
+      Destroyers do not directly fire on player ships.
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Destroyer

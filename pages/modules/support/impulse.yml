@@ -1,0 +1,19 @@
+title: Impulse
+subtitle: Impulse
+type: page
+icon: icons/modules/support/impulse.png
+tech: impulse
+content:
+
+  - type: text
+    text: >
+      Provides the owner a quick boost that helps it travel faster along its current route.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 4+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Impulse
+

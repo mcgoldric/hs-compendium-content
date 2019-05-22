@@ -1,0 +1,24 @@
+# A comment
+title: Hades' Star
+subtitle: Compendium
+type: index
+icon: icons/ships/Transport_lv1.png
+
+items:
+  - indices/ships.yml
+  - indices/cerb_ships.yml
+  - indices/weapons.yml
+  - indices/shields.yml
+  - indices/mining.yml
+  - indices/trade.yml
+  - indices/support.yml
+  - indices/stations.yml
+  - pages/stations/planets.yml
+  - indices/stars.yml
+#  - indices/exploits.yml
+  - pages/compendium/tech-levels.yml
+  - pages/compendium/shipbuilder.yml
+  - pages/compendium/income-calc.yml
+  - pages/compendium/white-star-calc.yml
+  - pages/contrib/jordan0321/abbreviations.yml
+  - indices/info.yml

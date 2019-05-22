@@ -1,0 +1,20 @@
+title: Barrier
+subtitle: Barrier
+type: page
+icon: icons/modules/support/barrier.png
+tech: barrier
+content:
+  - type: text
+    text: >
+      Creates a force field around the ship. Enemy ships and rockets cannot move while
+      inside the force field. Enemy ships cannot use any object inside the effect area as a Teleport target.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 6+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Barrier2
+
+

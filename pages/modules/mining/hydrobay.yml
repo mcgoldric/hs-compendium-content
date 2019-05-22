@@ -1,0 +1,16 @@
+title: Hydrogen Bay Extension
+subtitle: Hydrogen Bay Extension
+type: page
+icon: icons/modules/mining/hydrobayext.png
+tech: hydro-bay
+content:
+  - type: text
+    text: >
+      Increases the maximum amount of Hydrogen that a Miner ship can carry.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 1+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: HydroBayExt
+

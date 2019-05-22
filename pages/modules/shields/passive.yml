@@ -1,0 +1,22 @@
+title: Passive Shield
+subtitle: Passive Shield
+type: page
+icon: icons/modules/shields/passive.png
+tech: passive-shield
+content:
+  - type: text
+    text: >
+      A shield that is always active and slowly recharges over time.
+
+  - type: text
+    text: >
+      The shield only starts regenerating after it has stopped receiving damage for an amount of time
+      equal to the Regeneration Delay (1m12s). It takes 2m24s to fully regenerate.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 3+) artifacts.
+  - type: excel-table
+    filename: tables/shields.xlsx
+    sheet: Passive
+

@@ -1,0 +1,38 @@
+title: Destiny
+subtitle: Destiny
+type: page
+icon: icons/modules/support/destiny.png
+tech: destiny
+content:
+  - type: text
+    text: >
+      Does massive area damage to all enemy ships in range. Initiator ship instantly jumps to a
+      random sector in the star system. After the jump, the ship stays disabled for a short period of time.
+
+  - type: text
+    text: >
+      Can only be activated if there are enemy ships in the sector.
+
+  - type: text
+    text: Disable Duration after Destiny
+
+  - type: prop
+    name: Red Star
+    value: 10s
+
+  - type: prop
+    name: Blue Star
+    value: 10s
+
+  - type: prop
+    name: White Star
+    value: 8h
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 6+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Destiny
+

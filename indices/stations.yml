@@ -1,0 +1,18 @@
+# A comment
+title: Space Stations
+subtitle: Space Stations
+type: index
+icon: icons/stations/shipyard.png
+items:
+  - pages/stations/shipyard.yml
+  - pages/stations/short_range_scanner.yml
+  - pages/stations/red_star_scanner.yml
+  - pages/stations/research_station.yml
+  - pages/stations/time_modulator.yml
+  - pages/stations/diplomacy_station.yml
+  - pages/stations/warp_lane_hub.yml
+  - pages/stations/trade_station.yml
+  - pages/stations/white_star_scanner.yml
+  - pages/stations/blue_star_scanner.yml
+  - pages/stations/relay_station.yml
+

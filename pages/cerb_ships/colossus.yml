@@ -1,0 +1,19 @@
+title: Cerberus Colossus
+subtitle: Cerberus colossus
+type: page
+icon: icons/ships/Cerberus_Colossus_rot.png
+headerImage: artwork/colossus.jpeg
+content:
+  -
+    type: text
+    text: >
+      A massive Cerberus ship that requires a lot of firepower and coordination to bring down.
+
+  -
+    type: text
+    text: >
+      This ship will always stay in it's assigned sector.
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Colossus

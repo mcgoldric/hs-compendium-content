@@ -1,0 +1,22 @@
+title: Unity
+subtitle: Unity
+type: page
+icon: icons/modules/support/unity.png
+tech: unity
+content:
+    - type: text
+      text: >
+        Increases Damage Per Second for the owner ship when other players have ships in the same sector.
+        The increase is proportional to the number of other players with ships in the sector.
+
+    - type: text
+      text: >
+        Maximum damage increase is 100%.
+
+    - type: text
+      text: >
+        The blueprints can be found by researching Tetrahedron (level 3+) artifacts.
+    - type: excel-table
+      filename: tables/support.xlsx
+      sheet: Unity
+

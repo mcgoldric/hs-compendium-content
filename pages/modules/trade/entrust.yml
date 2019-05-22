@@ -1,0 +1,17 @@
+title: Entrust
+subtitle: Entrust
+type: page
+icon: icons/modules/trade/entrust.png
+tech: entrust
+content:
+  - type: text
+    text: >
+      Allows the owner transport ship to instantly teleport its cargo to another transport ship in range.
+      Works with shipments and fully loaded artifacts and relics.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 6+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Entrust
+

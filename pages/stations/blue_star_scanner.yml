@@ -1,0 +1,12 @@
+title: Blue Star Scanner
+subtitle: Blue Star Scanner
+type: page
+icon: icons/stations/blue_star_scanner1.png
+content:
+  - type: text
+    text: >
+      The scanner will send a single Battleship to a detected Blue Star. Blue Stars constantly
+      collapse from the outside towards the star, have a very short lifetime, and offer no security;
+      all participating player's Battleships will fire on each other, as well as the Cerberus forces
+      in the system. The player with the last Battleship alive wins the mission.
+

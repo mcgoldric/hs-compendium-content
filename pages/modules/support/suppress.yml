@@ -1,0 +1,17 @@
+title: Suppress
+subtitle: Suppress
+type: page
+icon: icons/modules/support/suppress.png
+tech: suppress
+content:
+    - type: text
+      text: >
+        Prevents a single enemy ship from firing for a small period of time.
+    - type: text
+      text: >
+        The blueprints can be found by researching Tetrahedron (level 5+) artifacts.
+    - type: excel-table
+      filename: tables/support.xlsx
+      sheet: Suppress
+
+

@@ -1,0 +1,16 @@
+title: Time Warp
+subtitle: Time Warp
+type: page
+icon: icons/modules/support/timewarp.png
+tech: timewarp
+content:
+  - type: text
+    text: >
+      Speeds up time in a radius around the ship. Affects travel times, combat and artifact pickup speed.
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 3+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Timewarp
+

@@ -1,0 +1,18 @@
+title: Offload
+subtitle: Offload
+type: page
+icon: icons/modules/trade/offload.png
+tech: offload
+content:
+  - type: text
+    text: >
+      When activated, the Transport ship will deliver all of its shipments upon arriving on a Trade Station,
+      regardless of the shipments' actual destination. Shipments not originally destined to the Trade Station will yield a reduced payoff.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 5+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Offload
+
+

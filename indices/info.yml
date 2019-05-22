@@ -1,0 +1,12 @@
+# A comment
+title: Compendium Info
+subtitle: Compendium Info
+type: index
+#icon: icons/compendium/information_icon.png
+icon: icons/compendium/info_drew_1.png
+items:
+#  - pages/compendium/shipbuilder.yml
+#  - pages/compendium/white-star-calc.yml
+  - pages/compendium/content_updates.yml
+  - pages/compendium/app_updates.yml
+  - pages/compendium/contrib.yml

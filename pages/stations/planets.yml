@@ -1,0 +1,80 @@
+title: Planets
+subtitle: Planets
+type: page
+icon: icons/stations/planet.png
+headerImage: artwork/planet.jpg
+version: 2019-05-10
+sourceVersion: 2019-05-10
+content:
+  - type: title
+    text: Planet Levels
+
+  - type: text
+    text: >
+      Base shipment value, credit income, and hydrogen income are the values before the planet type modifier.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Levels
+
+  - type: title
+    text: Planet Types
+
+  - type: text
+    text: >
+      The different planets types are tiered, The first one discovered of a type will be tier 1, the second tier 2,
+      and so forth. The highest tier, once reached, is assigned to each additional planet of the type.
+
+  - type: title
+    text: Desert Planet
+  - type: text
+    text: >
+      Desert planets produce lower reward shipments and provide ample space for storing hydrogen.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Desert
+
+  - type: title
+    text: Fire Planet
+  - type: text
+    text: >
+      Fire planets produce decent rewards shipments and give your Empire a small income of credits and hydrogen per hour.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Fire
+
+  - type: title
+    text: Water Planet
+  - type: text
+    text: >
+      Water planets produce decent reward shipments and give your Empire a steady income of credits per hour.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Water
+
+  - type: title
+    text: Terran Planet
+  - type: text
+    text: >
+      Terran planets produce regular reward shipments and give your Empire a small income of hydrogen per hour.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Terran
+
+  - type: title
+    text: Gas Planet
+  - type: text
+    text: >
+      Gas planets produce regular reward shipments and give your Empire a small income of credits per hour.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Gas
+
+  - type: title
+    text: Ice Planet
+  - type: text
+    text: >
+      Ice planets produce high reward shipments and give your Empire a steady income of credits and hydrogen per hour.
+  - type: excel-table
+    filename: tables/planets.xlsx
+    sheet: Ice
+

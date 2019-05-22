@@ -1,0 +1,31 @@
+title: Dart Launcher
+subtitle: Dart Launcher
+type: page
+icon: icons/modules/weapons/dart.png
+tech: dart
+content:
+  - type: text
+    text: >
+      Launches a DART missile against the targeted enemy ship at regular intervals.
+
+  - type: text
+    text: >
+      The missile can be neutralized by any enemy ship using normal targeting rules.
+
+  - type: text
+    text: >
+      When the missile reaches its destination it will apply direct weapon damage to the target ship only, and
+      only if the target ship is still within the impact area.
+
+  - type: text
+    text: >
+      The weapon will only fire on enemy ships. Rockets and Cerberus stations are ignored.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 9+) artifacts.
+
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: DartLauncher
+

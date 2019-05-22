@@ -1,0 +1,12 @@
+title: White Star Scanner
+subtitle: White Star Scanner
+type: page
+icon: icons/stations/white_star_scanner.png
+content:
+  - type: text
+    text: >
+      Allows you to locate and send ships to White Stars. You must be part of a Corporation to access White Stars.
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: WhiteStarScanner

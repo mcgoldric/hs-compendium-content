@@ -1,0 +1,17 @@
+title: Mining Boost
+subtitle: Mining Boost
+type: page
+icon: icons/modules/mining/miningboost.png
+tech: mining-boost
+content:
+  - type: text
+    text: >
+      Provides a temporary boost to Hydrogen collection speed.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 2+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Boost
+
+

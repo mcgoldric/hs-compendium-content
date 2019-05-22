@@ -1,0 +1,12 @@
+title: Shipyard
+subtitle: Shipyard
+type: page
+icon: icons/stations/shipyard.png
+content:
+  - type: text
+    text: >
+      Allows construction of ships. Upgrade to increase your Empire's total fleet capacity.
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: Shipyard
+

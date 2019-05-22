@@ -1,0 +1,12 @@
+# This is the root file.
+# It defines the top level file to use and some other parameters
+minAppVersion: 0.1
+minBuildNumber: 11
+root: indices/index.yml
+copyright: >
+  (c) 2018-2019 Rich Goldstein. All rights reserved. Content may not be used without permission.
+links:
+  -
+    title: Discord
+    url: https://discord.gg/CrK53pX
+    icon: icons/compendium/Discord-Logo-White.png

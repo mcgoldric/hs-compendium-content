@@ -1,0 +1,18 @@
+title: Fortify
+subtitle: Fortify
+type: page
+icon: icons/modules/support/fortify.png
+tech: fortify
+content:
+  - type: text
+    text: >
+      Reduces damage received. All enemy ships and bases prefer firing on the owner over all other potential targets.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 4+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Fortify
+

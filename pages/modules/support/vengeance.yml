@@ -1,0 +1,39 @@
+title: Vengeance
+subtitle: Vengeance
+type: page
+icon: icons/modules/support/vengeance.png
+tech: vengeance
+content:
+  - type: text
+    text: >
+      Starts activating automatically when the owner ship drops below the Hull Strength Threshold.
+      Once the Activation Delay passes, and if the owner ship is still not destroyed,
+      a massive explosion will apply Area damage to all enemy ships in range.
+
+  - type: text
+    text: Activation Delay
+
+  - type: prop
+    name: Red Star
+    value: 15s
+
+  - type: prop
+    name: White Star
+    value: 4h
+
+  - type: prop
+    name: Blue Star
+    value: 10s
+
+  - type: text
+    text: >
+      Active Shield modules cannot be used while Vengeance is activating.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 7+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Vengeance
+

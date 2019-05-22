@@ -1,0 +1,17 @@
+title: Hydrogen Upload
+subtitle: Hydrogen Upload
+type: page
+icon: icons/modules/mining/upload.png
+tech: upload
+content:
+  - type: text
+    text: >
+      Instantly uploads a percentage of collected Hydrogen to your Empire's reserves,
+      without needing to return to a planet.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 4+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Upload
+

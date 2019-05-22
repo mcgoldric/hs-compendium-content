@@ -1,0 +1,13 @@
+# A comment
+title: Weapons
+subtitle: Weapons
+type: index
+icon: icons/modules/weapons/battery.png
+items:
+  - pages/modules/weapons/weak_battery.yml
+  - pages/modules/weapons/battery.yml
+  - pages/modules/weapons/laser.yml
+  - pages/modules/weapons/mass_battery.yml
+  - pages/modules/weapons/duallaser.yml
+  - pages/modules/weapons/barrage.yml
+  - pages/modules/weapons/dart.yml

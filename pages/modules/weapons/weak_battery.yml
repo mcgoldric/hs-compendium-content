@@ -1,0 +1,13 @@
+title: Weak Battery
+subtitle: Weak Battery
+type: page
+icon: icons/modules/weapons/weakbatt.png
+tech: weak-batt
+content:
+  - type: text
+    text: >
+      A weak weapon that does damage to a single target at a time. All battleships begin with this weapon.
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: WeakBattery
+

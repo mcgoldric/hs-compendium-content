@@ -1,0 +1,16 @@
+title: Salvage
+subtitle: EMP
+type: page
+icon: icons/modules/support/salvage.png
+tech: salvage
+content:
+  - type: text
+    text: >
+      Instantly restores a percentage of hull strength each time any ship is destroyed in the same sector.
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 5+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Salvage
+

@@ -1,0 +1,7 @@
+# A comment
+title: Stars
+subtitle: Stars
+type: index
+icon: icons/stations/bluestar.png
+items:
+  - pages/contrib/beluga/bluestar.yml

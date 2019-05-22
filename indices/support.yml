@@ -1,0 +1,27 @@
+# A comment
+title: Support Modules
+subtitle: Support Modules
+type: index
+icon: icons/modules/support/emp.png
+items:
+  - pages/modules/support/emp.yml
+  - pages/modules/support/teleport.yml
+  - pages/modules/support/red_star_life_extender.yml
+  - pages/modules/support/remote_repair.yml
+  - pages/modules/support/timewarp.yml
+  - pages/modules/support/unity.yml
+  - pages/modules/support/sanctuary.yml
+  - pages/modules/support/stealth.yml
+  - pages/modules/support/fortify.yml
+  - pages/modules/support/impulse.yml
+  - pages/modules/support/alpha_rocket.yml
+  - pages/modules/support/salvage.yml
+  - pages/modules/support/suppress.yml
+  - pages/modules/support/destiny.yml
+  - pages/modules/support/barrier.yml
+  - pages/modules/support/vengeance.yml
+  - pages/modules/support/delta_rocket.yml
+  - pages/modules/support/leap.yml
+  - pages/modules/support/bond.yml
+  - pages/modules/support/alpha_drone.yml
+  - pages/modules/support/omega_rocket.yml

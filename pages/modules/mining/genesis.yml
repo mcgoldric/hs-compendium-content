@@ -1,0 +1,27 @@
+title: Genesis
+subtitle: Genesis
+type: page
+icon: icons/modules/mining/genesis.png
+tech: genesis
+content:
+  - type: text
+    text: >
+      Instantly creates new asteroid fields on the Miner's current sector.
+      Does not work on sectors with Jump Gates in White Stars.
+
+  - type: text
+    text: >
+      Sectors are limited to 14 asteroids max.
+
+  - type: text
+    text: >
+      Has a sector cooldown of 5 days in white stars, so it can only be used once per sector.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 5+) artifacts.
+
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Genesis
+

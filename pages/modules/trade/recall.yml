@@ -1,0 +1,17 @@
+title: Recall
+subtitle: Recall
+type: page
+icon: icons/modules/trade/recall.png
+tech: recall
+content:
+  - type: text
+    text: >
+      Allows a transport to teleport to a trade station.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 7) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Recall
+
+

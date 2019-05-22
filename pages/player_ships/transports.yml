@@ -1,0 +1,21 @@
+title: Transport Ship
+subtitle: Trusty Courier
+type: page
+icon: icons/ships/Transport_lv5_rot.png
+headerImage: artwork/transport.jpeg
+content:
+
+  - type: text
+    text: >
+      Transport ships are crucial for trade. Use them to deliver shipments between planets and moons,
+      and to transfer Artifacts from Red Stars.
+  -
+    type: text
+    text: >
+      Transport ships are also used to retrieve Relics from White Stars.
+
+  - type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Transport
+
+

@@ -1,0 +1,24 @@
+title: EMP
+subtitle: EMP
+type: page
+icon: icons/modules/support/emp.png
+tech: emp
+content:
+  - type: text
+    text: >
+      Disables all ships and Cerberus Stations within the affected area for a short period of time, including the ship that triggered the EMP.
+
+  - type: text
+    text: >
+      In public red stars this can only be activated when Cerberus are in range.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 2+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: EMP
+
+
+

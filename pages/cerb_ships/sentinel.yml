@@ -1,0 +1,20 @@
+title: Cerberus Sentinel
+subtitle: Cerberus Sentinel
+type: page
+icon: icons/ships/Cerberus_Sentinel_rot.png
+headerImage: artwork/sentinel.jpeg
+content:
+  -
+    type: text
+    text: >
+      Sentinels have weak hulls but are equipped with a very powerful Battery. They pose little threat individually, but are deadly in large numbers or when covered behind stronger Cerberus ships.
+
+  -
+    type: text
+    text: >
+      Sentinels will always stay within their assigned sector.
+
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Sentinel

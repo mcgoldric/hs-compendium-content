@@ -1,0 +1,17 @@
+title: Crunch
+subtitle: Crunch
+type: page
+icon: icons/modules/mining/crunch.png
+tech: crunch
+content:
+  - type: text
+    text: >
+      Instantly collects Hydrogen from all asteroid fields in the current sector
+      (limited by the Max Amount and the Miner ship's total capacity).
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 5+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Crunch
+

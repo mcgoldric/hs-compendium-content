@@ -1,0 +1,16 @@
+title: Mining Unity
+subtitle: Mining Unity
+type: page
+icon: icons/modules/mining/miningunity.png
+tech: mining-unity
+content:
+  - type: text
+    text: >
+      Increases mining collection speed for every other player that is mining in the same sector.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 4+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Unity
+

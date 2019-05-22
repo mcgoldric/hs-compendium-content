@@ -1,0 +1,22 @@
+title: Alpha Rocket
+subtitle: Alpha Rocket
+type: page
+icon: icons/modules/support/alpharocket.png
+tech: alpha-rocket
+content:
+  - type: text
+    text: >
+      A fast but weak Rocket that can be launched towards a single fixed target.
+      The Rocket explodes and does area damage to all enemy ships when it reaches it's destination.
+
+  - type: text
+    text: >
+      Enemy ships can fire on the Rocket using normal targeting rules. No damage is applied if the rocket is destroyed before it reaches it's destination.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 4+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: AlphaRocket
+

@@ -1,0 +1,16 @@
+title: Cargo Bay Extension
+subtitle: Cargo Bay Extension
+type: page
+icon: icons/modules/trade/cargobayext.png
+tech: cargo-bay
+content:
+  - type: text
+    text: >
+      Increases the total storage of the Transport ship, allowing more Shipments or Artifacts to be carried at once.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 1+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: CargoBayExt
+

@@ -1,0 +1,27 @@
+title: Time Modulator
+subtitle: Time Modulator
+type: page
+icon: icons/stations/time_modulator.png
+content:
+  - type: text
+    text: >
+      An advanced station that draws power from a Yellow Star to manipulate time. Use it to speed
+      up the passage of time in your Yellow Star. Upgrade to increase the speed up factor.
+  - type: text
+    text: >
+
+      Allows speeding up time over an entire Yellow Star System. Duration: 10 mins. Recharge: 20 mins/day.
+  - type: text
+    text: >
+      Can be built from a level 6 planet.
+  - type: prop
+    name: Duration
+    value: 10 min
+  - type: prop
+    name: Recharge
+    value: 20 min/day
+
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: TimeModulator
+

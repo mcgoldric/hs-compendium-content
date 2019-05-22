@@ -1,0 +1,20 @@
+title: Cerberus Storm
+subtitle: Cerberus Storm
+type: page
+icon: icons/ships/storm.png
+headerImage: artwork/storm.jpg
+content:
+  -
+    type: text
+    text: >
+      This ship always follows a circular path within its sector. It is equipped with a powerful
+      long range weapon that regularly launches fast Dart missiles against all enemy ships in range.
+  -
+    type: text
+    text: >
+      The Storm appears in Red Stars level 9 and higher.
+
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Storm

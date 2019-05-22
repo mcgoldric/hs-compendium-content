@@ -1,0 +1,127 @@
+title: Blue Stars
+subtitle: Blue Stars
+type: page
+icon: icons/stations/bluestar.png
+content:
+  - type: title
+    text: Blue Stars
+  - type: attrib
+    text: by Blazing Beluga
+  - type: text
+    text: >
+      Blue Stars are a short 5 minute PvP battle in which five players and/or AI controlled battleships fight
+      till the last ship standing. The star is filled with cerbs and continuously collapses.
+  - type: image
+    image: contrib/beluga/fig1.png
+  - type: text
+    text: >
+      If a ship enters the center sector of the star, it will inflict 150 damage every second. The outer blue ring
+      shows where the star has collapsed up to. Anything that goes past the blue ring dies instantly. The red zone
+      signifies how far the star will collapse and everything inside the zone as it collapses dies instantly. You can
+      tell it your ship or other ships are in the red zone or not by a little dot in the center of the ship.
+
+
+      Each day, you can earn rewards from playing blue stars. Winning first place with a non-sanced ship awards
+      you 90% of the ships and mod cost. If you lose with a non-sanced ship, you will be refunded 90% of the rebuild
+      cost back so if you win 1/10 blue stars, you will break even. You can also earn 25% of your hydrogen storage
+      with sanced or non-sanced ships so it is recommended that you use a non-sanced ship to earn the daily credit
+      reward and then use a sanced ship to earn the rest of the hydro.
+
+
+      Players will also earn star fragments while playing which can be used to climb the bls leaderboards and can
+      also be used for the shipment relay station. A bls season lasts one month and players are rewarded crystals at
+      the end of the season for placing on the leaderboards and for reaching a certain amount of fragments. Players
+      that place in 1st, top ten, and top 50 also earn nifty distinctions that go permanently on their profile.
+
+
+      Tactics:
+
+
+      The best strategy is to AVOID ALL ENGAGEMENTS until absolutely necessary. The point of blue stars is to come
+      out on top as the last survivor. Hugging the edge and avoiding cerbs and/or other battleships will keep your
+      ship healthy and happy.
+
+
+      Luring/pointing cerbs is a nice and easy way to save health and clear a sector. To lure, simply move into a
+      sector one ring before the zone closes. The cerbs will come towards you and will die instantly as they move
+      outside the zone.
+  - type: image
+    image: contrib/beluga/fig2.png
+  - type: text
+    text: >
+      To point, set your ship's course to the asteroid closest to the ring/in the red zone. Make sure your ship
+      doesn't depart on its course. You may have to cancel the course and repeat it until the cerb decides to move.
+      (Pointing doesn't work on interceptors)
+  - type: image
+    image: contrib/beluga/fig3.png
+  - type: text
+    text: >
+      Once you reach the final circles things get intense. For one, the lone battleship may have called all his
+      interceptor friends but decided to leave making you the host for their party. Avoiding contact still applies
+      here. Try to stay away from activated interceptors and find an asteroid close to the center sector to
+      position your ship at. Set the longest course possible across the center sector to help you survive longer.
+      Remember that asteroids in the red zone will disappear when they circle collapses so you may have to set your
+      course early. Use any remaining mods to kill other ships and keep yourself alive as long as possible.
+
+
+      At the end, when there are no asteroids remaining, destiny will act like a mini emp,  keeping you from going
+      out of bounds longer. It can also be used at this stage to break a Bond on your BS, keeping your ship in place
+      until the end of the Blue Star.
+
+
+      Weapons:
+
+      🐋 Weak Batt, Mass Batt, and Barrage aren’t viable.
+
+      🐋 Dual Laser is viable and is nice for multiple targets.
+
+      🐋 Batt and Laser are the most viable weapon options as they deal the most damage in most circumstances.
+
+
+      Shields:
+
+      🐋 Don't use Area or Blast shield
+
+      🐋 Alpha and Delta shields aren't viable as they do not offer much hp.
+
+      🐋 Passive shield is a decent shield that doesn't add extra hydro expense
+
+      🐋 Mirror Shield can be a viable shield but must be upgraded to a decent level and is costly to activate.
+
+      🐋 Omega Shield is your best bet for protection as it offers the most hp and requires less hydro to activate than mirror.
+
+
+      Support Mods:
+
+      🐋 Do not use Red Star Life Extender, Unity, or Leap.
+
+      🐋 Stealth, Fortify, Impulse, Suppress, Delta Rocket, Alpha Drone, and Vengeance can be viable but there are better options to fill those precious mod slots.
+
+      🐋 EMP - One of the best mods for bls it offers a good variety of uses from trapping enemies in the collapsing zone to keeping yourself alive longer in the final circles.
+
+      🐋 Teleport - Another really useful mod. Can be used to send interceptors to other players and as a quick way of getting around. Can be paired up with bond and destiny.
+
+      🐋 Remote Repair - Good for extra health to keep you alive longer.
+
+      🐋 Time Warp - Viable as it speeds shield cool-down allowing for second shield pops late game and cutting emp time in case you're trapped in the red zone. Also good for getting around quickly.
+
+      🐋 Alpha Rocket - A nice way of clearing a cerb swarm or knocking chunks of enemy health away.
+
+      🐋 Salvage - Good for regaining health and allows you to pop shield later.
+
+      🐋 Destiny - Allows you to deal a decent amount of damage to enemies and get away in a pinch. Just be careful cause you may end up in the red zone or in a cerb infested sector disabled for a few seconds.
+
+      🐋 Barrier - Much weaker in bls because of shortened time but still viable to keep ships in the red zone or away from you.
+
+      🐋 Bond - A nice way to push enemies outside the zone. Can be paired with teleport nicely.
+
+      🐋 Omega Rocket - Only a few people have this mod unlocked but I'm guessing it's definitely viable because of the massive damage it deals.
+
+
+  - type: image
+    image: contrib/beluga/beluga.jpg
+  - type: text
+    text: >
+      I hope this guide will help you with blue stars.
+
+      Keep spreading the Beluga Love! 🔥🐋

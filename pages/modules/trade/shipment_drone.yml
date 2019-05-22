@@ -1,0 +1,20 @@
+title: Shipment Drone
+subtitle: Shiiment Drone
+type: page
+icon: icons/modules/trade/shipmentdrone.png
+tech: shipment-drone
+content:
+  - type: text
+    text: >
+      Launches a Drone that will automatically pick up and deliver shipments when possible.
+      The drone can only cross sectors if they are connected with an active Warp Lane.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 5+) artifacts.
+
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Drone
+
+

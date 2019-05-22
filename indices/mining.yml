@@ -1,0 +1,16 @@
+# A comment
+title: Mining Modules
+subtitle: Mining Modules
+type: index
+icon: icons/modules/mining/enrich.png
+items:
+  - pages/modules/mining/hydrobay.yml
+  - pages/modules/mining/boost.yml
+  - pages/modules/mining/enrich.yml
+  - pages/modules/mining/remote_mining.yml
+  - pages/modules/mining/upload.yml
+  - pages/modules/mining/unity.yml
+  - pages/modules/mining/crunch.yml
+  - pages/modules/mining/genesis.yml
+  - pages/modules/mining/hydrorocket.yml
+  - pages/modules/mining/miningdrone.yml

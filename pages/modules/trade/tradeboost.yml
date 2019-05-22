@@ -1,0 +1,18 @@
+title: Trade Boost
+subtitle: Trade Boost
+type: page
+icon: icons/modules/trade/tradeboost.png
+tech: trade-boost
+content:
+  - type: text
+    text: >
+      While active, increases payout on shipment delivery.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 3+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Boost
+
+

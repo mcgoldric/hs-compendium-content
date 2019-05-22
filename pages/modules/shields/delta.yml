@@ -1,0 +1,17 @@
+title: Delta Shield
+subtitle: Delta Shield
+type: page
+icon: icons/modules/shields/delta.png
+tech: delta-shield
+content:
+  - type: text
+    text: >
+      Absorbs incoming damage until it is depleted or the activation time runs out. Ship travels faster while shield is active.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 2+) artifacts.
+  - type: excel-table
+    filename: tables/shields.xlsx
+    sheet: Delta
+

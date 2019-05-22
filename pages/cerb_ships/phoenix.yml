@@ -1,0 +1,19 @@
+title: Cerberus Phoenix
+subtitle: Cerberus Phoenix
+type: page
+icon: icons/ships/phoenix.png
+headerImage: artwork/phoenix.jpg
+content:
+  -
+    type: text
+    text: >
+      The Phoenix protects nearby Cerberus ships with its area shield. Once destroyed, it will spawn a small number (3) of Sentinels.
+
+  -
+    type: text
+    text: >
+      This ship will always stay within its assigned sector.
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Phoenix

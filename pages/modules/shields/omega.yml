@@ -1,0 +1,16 @@
+title: Omega Shield
+subtitle: Omega Shield
+type: page
+icon: icons/modules/shields/omega.png
+tech: omega-shield
+content:
+  - type: text
+    text: >
+      Absorbs incoming damage until it is depleted or the activation time runs out.
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 4+) artifacts.
+  - type: excel-table
+    filename: tables/shields.xlsx
+    sheet: Omega
+

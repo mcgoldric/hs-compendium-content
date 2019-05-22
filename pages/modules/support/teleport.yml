@@ -1,0 +1,34 @@
+title: Teleport
+subtitle: Teleport
+type: page
+icon: icons/modules/support/teleport.png
+tech: teleport
+content:
+  - type: text
+    text: >
+      After the activation delay, the ship teleports to another object within the teleportation radius.
+      One cannot teleport into a Barrier created by enemy ships.
+
+  - type: text
+    text: Activation Delay
+
+  - type: prop
+    name: Red Star
+    value: 5s
+
+  - type: prop
+    name: Blue Star
+    value: 5s
+
+  - type: prop
+    name: White Star
+    value: 4h
+
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 1+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Teleport
+

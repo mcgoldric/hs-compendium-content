@@ -1,0 +1,22 @@
+title: Dual Laser
+subtitle: Dual Laser
+type: page
+icon: icons/modules/weapons/duallaser.png
+tech: dual-laser
+content:
+  - type: text
+    text: >
+      Fires a laser beam against up to two enemies withing range. Damage ramps up over time if both beams are active.
+
+  - type: text
+    text: >
+      Damage resets to minimum as soon as there is only 1 target in range.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 4+) artifacts.
+
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: DualLaser
+

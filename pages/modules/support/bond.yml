@@ -1,0 +1,33 @@
+title: Bond
+subtitle: Bond
+type: page
+icon: icons/modules/support/bond1.png
+tech: bond
+content:
+  - type: text
+    text: >
+      Creates a movement link with the target enemy ship. Any movement from the owner ship will be
+      reflected on the enemy ship so the distance between them remains the same.
+
+  - type: text
+    text: >
+      The owner ship will not be affected by a Barrier field activated by the bonded ship.
+
+  - type: text
+    text: >
+      The bonded ship can break the link by using Bond on the original ship, or using a module that causes
+      teleportation.
+
+  - type: text
+    text: >
+      Bond does not work in Public Red Stars below level 8. A hips with and active Bond to a Cerberus ship
+      cannot teleport in a public Red Star.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 8+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Bond
+

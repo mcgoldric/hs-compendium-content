@@ -1,0 +1,20 @@
+title: Leap
+subtitle: Leap
+type: page
+icon: icons/modules/support/leap.png
+tech: leap
+content:
+  - type: text
+    text: >
+      After an activation delay, the owner ship teleports to the object nearest near the closest ally engaged in
+      combat in the current star system, if the targeted ally ship is still alive at the end of the delay period.
+      After teleportation, both the owner ship and the ally ship are disabled for a small period of time.
+      Does not work on sectors with Jump Gates in White Stars.
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 8+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: Leap
+
+

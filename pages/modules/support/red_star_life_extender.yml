@@ -1,0 +1,18 @@
+title: Red Star Life Extender
+subtitle: Red Star Life Extender
+type: page
+icon: icons/modules/support/redstarextender.png
+tech: rsle
+content:
+  - type: text
+    text: >
+      Adds a small amount of time to a Red Star's life when activated near the star.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 2+) artifacts.
+
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: RSLE
+

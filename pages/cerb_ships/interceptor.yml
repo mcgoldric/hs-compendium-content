@@ -1,0 +1,24 @@
+title: Cerberus Interceptor
+subtitle: Cerberus Interceptor
+type: page
+icon: icons/ships/Cerberus_Interceptor_rot.png
+headerImage: artwork/interceptor.jpeg
+content:
+  -
+    type: text
+    text: >
+      A fast and powerful Cerberus ship that can simultaneously fire against 4 enemy ships.
+
+  -
+    type: text
+    text: >
+      In public Red Stars, it will only fire on the support ships of the player who activated it.
+
+  -
+    type: text
+    text: >
+      The Interceptor will become activated when an enemy ship enters it's assigned sector. Once activated, it will hunt down enemy ships across all sectors, making it very dangerous against non-combat ships.
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Interceptor

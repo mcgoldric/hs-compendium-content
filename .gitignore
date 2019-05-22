@@ -1,0 +1,17 @@
+
+# Ignore IDE Stuff
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+
+# Other Stuff
+images/artwork/**
+images/contrib/**
+images/icons/**
+/tables/
+/pages/compendium/
+/contrib_source/

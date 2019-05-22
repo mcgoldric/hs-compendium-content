@@ -1,0 +1,23 @@
+title: Mining Drone
+subtitle: Mining Drone
+type: page
+icon: icons/modules/mining/miningdrone.png
+tech: mining-drone
+content:
+  - type: text
+    text: >
+      Launches an independent ship towards the target asteroid, which must be within range of the miner ship.
+      The drone will keep mining from the asteroid until it is depleted or its capacity fills up.
+      After the mining is done, the drone will deposit the Hydrogen to the closest planet.
+
+  - type: text
+    text: >
+      Does not work in sectors with Jump Gates on White Stars.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 9+) artifacts.
+  - type: excel-table
+    filename: tables/mining.xlsx
+    sheet: Drone
+

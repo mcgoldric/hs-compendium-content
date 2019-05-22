@@ -1,0 +1,16 @@
+title: Mass Battery
+subtitle: Mass Battery
+type: page
+icon: icons/modules/weapons/massbatt.png
+tech: mass-batt
+content:
+  - type: text
+    text: >
+      Simultaneously fires on multiple enemies within firing range.
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 3+) artifacts.
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: MassBattery
+

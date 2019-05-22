@@ -1,0 +1,19 @@
+title: Rush
+subtitle: Rush
+type: page
+icon: icons/modules/trade/rush.png
+tech: rush
+content:
+  - type: text
+    text: >
+      Increases the speed of the owner Transport ship when it carries any shipments destined to the ship's next
+      waypoint. The speed increase is proportional to the number of shipments destined to the next waypoint.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 3+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Rush
+
+

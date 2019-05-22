@@ -1,0 +1,22 @@
+title: Barrage
+subtitle: Barrage
+type: page
+icon: icons/modules/weapons/barrage.png
+tech: barrage
+content:
+  - type: text
+    text: >
+      A battery that does additional damage to it's single target when there are more enemy ships in the sector.
+
+  - type: text
+    text: >
+      Damage is capped at 16 targets in red stars and 8 in white stars.
+
+  - type: text
+    text: >
+      The blueprints can be found by researching Orb (level 5+) artifacts.
+
+  - type: excel-table
+    filename: tables/weapons.xlsx
+    sheet: Barrage
+

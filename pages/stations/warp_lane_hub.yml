@@ -1,0 +1,14 @@
+title: Warp Lane Hub
+subtitle: Warp Lane Hub
+type: page
+icon: icons/stations/warp_lane_hub.png
+content:
+  - type: text
+    text: >
+      Two hubs that can connect to create a temporary Warp Lane in your system.
+      Two Warp Lane hubs (they are created in pairs) can be connected for one day, for a fixed Hydrogen cost
+      (0.9H/AU). Once connected, ships can travel between the two end points instantly and without consuming hydrogen.
+  - type: excel-table
+    filename: tables/stations.xlsx
+    sheet: Warplane
+

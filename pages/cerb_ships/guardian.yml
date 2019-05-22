@@ -1,0 +1,21 @@
+title: Cerberus Guardian
+subtitle: Cerberus Guardian
+type: page
+icon: icons/ships/Cerberus_Guardian_rot.png
+headerImage: artwork/guardian.jpeg
+content:
+  -
+    type: text
+    text: >
+      A strong ship that Cerberus often use to provide cover for Sentinels.
+
+  -
+    type: text
+    text: >
+      Guardians always stay within their assigned sector.
+
+  -
+    type: excel-table
+    filename: tables/ships.xlsx
+    sheet: Guardian
+

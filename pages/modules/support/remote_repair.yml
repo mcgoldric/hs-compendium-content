@@ -1,0 +1,16 @@
+title: Remote Repair
+subtitle: Remote Repair
+type: page
+icon: icons/modules/support/remoterepair.png
+tech: remote-repair
+content:
+  - type: text
+    text: >
+      Repairs a constant amount of hitpoints per second, shared among all damaged non-enemy ships within range.
+  - type: text
+    text: >
+      The blueprints can be found by researching Tetrahedron (level 3+) artifacts.
+  - type: excel-table
+    filename: tables/support.xlsx
+    sheet: RemoteRepair
+

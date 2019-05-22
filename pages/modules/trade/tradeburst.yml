@@ -1,0 +1,18 @@
+title: Trade Burst
+subtitle: Trade Burst
+type: page
+icon: icons/modules/trade/tradeburst.png
+tech: trade-burst
+content:
+  - type: text
+    text: >
+      Counts shipments delivered during the activation period. After a minimum threshold is met,
+      every new Credits shipment delivered by the owner ship while the module is still active will yield a bonus reward.
+  - type: text
+    text: >
+      The blueprints can be found by researching Blue Crystal (level 4+) artifacts.
+  - type: excel-table
+    filename: tables/trade.xlsx
+    sheet: Burst
+
+

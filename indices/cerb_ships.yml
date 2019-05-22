@@ -1,0 +1,16 @@
+# A comment
+title: Cerberus Ships
+subtitle:
+  en: Cerberus Ships
+  fr: Cerberus Ships
+type: index
+icon: icons/ships/Cerberus_Colossus_rot.png
+items:
+  - pages/cerb_ships/sentinel.yml
+  - pages/cerb_ships/guardian.yml
+  - pages/cerb_ships/interceptor.yml
+  - pages/cerb_ships/colossus.yml
+  - pages/cerb_ships/destroyer.yml
+  - pages/cerb_ships/phoenix.yml
+  - pages/cerb_ships/bomber.yml
+  - pages/cerb_ships/storm.yml
