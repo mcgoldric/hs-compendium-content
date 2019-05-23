@@ -1,6 +1,9 @@
-title: Shipment Relay
-subtitle:
+title: 
   en: Shipment Relay
+  de: Warenweiterleitung
+subtitle: 
+  en: Shipment Relay
+  de: Warenweiterleitung
 type: page
 icon: icons/stations/relay_station.png
 tech: shipment-relay
@@ -8,19 +11,21 @@ version: 2019-05-10
 sourceVersion: 2019-05-10
 content:
   - type: text
-    text: >
-      Enables automatic shipment delivery on a per-sector basis, for a limited amount of time.
+    text: 
+      en: Enables automatic shipment delivery on a per-sector basis, for a limited amount of time.   
+      de: Warenweiterleitung: Erm�glicht f�r eine begrenzte Zeit die automatische Warenlieferung innerhalb von Sektoren
+
 
   - type: text
-    text:
-      en: >
-        The sectors that the Relay is controlling will have Credits Shipments delivered automatically over time. Upgrade the Relay to increase the amount of shipments and controlled sectors.
-      fr: --OMIT--
+    text: 
+      en: The sectors that the Relay is controlling will have Credits Shipments delivered automatically over time. Upgrade the Relay to increase the amount of shipments and controlled sectors.
+      de: Die durch die Weiterleitung erfassten Sektoren erhalten mit der Zeit unabh�ngig des Zielorts automatisch Kreditlieferungen. Verbessere die Station um die Lieferungsmenge, sowie die Anzahl der erfassten Sektoren zu erh�hen.
+
   - type: text
-    text: >
-      The Relay requires Star Fragments to operate. They can be earned by participating in Blue Star missions.
+    text: 
+      en: The Relay requires Star Fragments to operate. They can be earned by participating in Blue Star missions.
+      de: Die Station ben�tigt f�r den Betrieb Sternensplitter die in BR-Missionen verdient werden k�nnen.
 
   - type: excel-table
     filename: tables/stations.xlsx
     sheet: RelayStation
-
