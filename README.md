@@ -13,6 +13,7 @@ In order to contribute here, you will need to have a GitHib account.
 
 If you wish to contribute a new file (topic), create the new file in the folder that you think is most appropriate. Don't worry about adding it to an index file, as I will review it and add it appropriately. See the file format section below.
 
+Corrections or minor additions can also be submitted via the Issues tab, or on the Discord channel https://discord.gg/CrK53pX
 
 ## File Formats
 The files included here are in YAML format. YAML is a text format that is easy to read and edit. The most important thing 
