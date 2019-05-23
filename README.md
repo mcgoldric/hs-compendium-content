@@ -6,6 +6,10 @@ I am making the files available here so that the community can contribute to the
 be updated, expanded, and translated. You can also contribute new data by adding files.
 
 ## How to Contribute
+
+**Note: If you intend to clone the repository locally, please fork and the clone your forked copy. This will make it
+easier to submit pull requests.**
+ 
 In order to contribute here, you will need to have a GitHib account.
 1. Create a GitHub account or log in to your existing GitHub account.
 2. Fork this repository (this only needs to be done once). This will create a copy of all of the files into your GitHub account. You will find the Fork button on the top right of the page.
