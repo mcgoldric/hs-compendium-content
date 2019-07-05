@@ -1,19 +1,37 @@
-title: Cerberus Phoenix
-subtitle: Cerberus Phoenix
+title: 
+en: Cerberus Phoenix
+pl: Feniks Cerberów
+subtitle: 
+en: Cerberus Phoenix
+pl: Feniks Cerberów
 type: page
 icon: icons/ships/phoenix.png
 headerImage: artwork/phoenix.jpg
 content:
   -
     type: text
-    text: >
+    text: 
+
+en: >
       The Phoenix protects nearby Cerberus ships with its area shield. Once destroyed, it will spawn a small number (3) of Sentinels.
+pl: >
+      Feniks ochrania pobliskie statki Cerberów przy użyciu tarczy obszarowej. Raz zniszczony, przywołuje 3 Wartowników.
 
   -
     type: text
-    text: >
-      This ship will always stay within its assigned sector.
+    text: 
+
+en: >
+      This ship will always stay within its assigned sector. It will try to cover ships closest to the player ships.
+pl: >
+      Ten statek nigdy nie opuszcza swojego sektora. Zawsze stara się osłonić statki będące najbliżej statków gracza.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Phoenix
+
+-
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
