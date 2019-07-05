@@ -1,24 +1,44 @@
-title: Cerberus Destroyer
-subtitle: Cerberus Destroyer
+title: 
+en: Cerberus Destroyer
+pl: Niszczyciel Cerberów
+subtitle: 
+en: Cerberus Destroyer
+pl: Niszczyciel Cerberów
 type: page
 icon: icons/ships/Cerberus_Destroyer_rot.png
 headerImage: artwork/destroyer.jpeg
 content:
   -
     type: text
-    text: >
+    text: 
+en: >
       These mysterious Cerberus ships are known to jump in Red Stars and destroy entire
       planets with their powerful beams.
+pl: >
+      Te tajemnicze statki są znane ze skoków do RS'ów i niszczenia całych planet
+      przy pomocy swoich potężnych laserów.
   -
     type: text
-    text: >
+    text: 
+en: >
       When the Destroyer is defeated or a planet destroyed, area damage will be applied to all nearby
       player ships.
+pl: >
+      Pokonanie niszczyciela lub zniszczenie przez niego planety zada obrażenia obszarowe wszytkim
+      sojuszniczym jednostkom będącym w zasięgu.
   -
     type: text
-    text: >
+    text: 
+en: >
       Destroyers do not directly fire on player ships.
+pl: >
+      Niszczyciele nie atakują bezpośrednio sojuszniczych statków.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Destroyer
+-
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
