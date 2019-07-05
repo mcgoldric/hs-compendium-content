@@ -1,28 +1,50 @@
-title: Cerberus Bomber
-subtitle: Cerberus Bomber
+title:
+  en: Cerberus Bomber
+  pl: Torpedowiec Cerberów
+subtitle: 
+  en: Cerberus Bomber
+  pl: Torpedowiec Cerberów
 type: page
 icon: icons/ships/bomber.png
 headerImage: artwork/bomber.jpeg
 content:
   -
     type: text
-    text: >
-      A strong ship that regularly fires one rocket towards each participating player that has ships in the bomber's sector or any adjacent sectors.
+    text:
+      en: >
+        A strong ship that regularly fires one rocket towards each participating player that has ships in the bomber's sector or any adjacent sectors.
+
+      pl: >
+        Potężny statek regularnie wystrzeliwujący po jednej rakiecie w kierunku każdego gracza będącego w tym samym lub sąsiednim sektorze.
   -
     type: text
-    text: >
-      The ship will always stay in its assigned sector, but the Rockets can be fired on approaching ships in adjacent sectors.
+    text: 
+      en: >
+        The ship will always stay in its assigned sector, but the Rockets can be fired on approaching ships in adjacent sectors.
+      pl: >
+        Statek nigdy nie opuszcza swojego sektora, ale jego rakiety obejmują zasięgiem sąsiednie sektory.
   -
     type: text
-    text: >
-      This ship will always move away from your battleships.
+    text:
+      en: >
+        This ship will always move away from your battleships.
+      pl: >
+        Torpedowiec zawsze będzie unikał twoich statków.
 
   -
     type: text
-    text: >
-      In Red Stars, Areas under threat by a bomber can be automatically highlighted by selecting the toggle in the
-      Star Info page.
+    text: 
+      en: >
+        In Red Stars, Areas under threat by a bomber can be automatically highlighted by selecting the toggle in the
+        Star Info page.
+      pl: >
+        W RS'ach obszary w zasięgu torpedowców mogą być automatycznie podświetlane. Opcja jest do włączenia w panelu informacyjnym gwiazdy.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Bomber
+  -
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
