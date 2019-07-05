@@ -1,24 +1,46 @@
-title: Cerberus Interceptor
-subtitle: Cerberus Interceptor
+title: 
+en: Cerberus Interceptor
+pl: Myśliwiec Cerberów
+subtitle: 
+en: Cerberus Interceptor
+pl: Myśliwiec Cerberów
 type: page
 icon: icons/ships/Cerberus_Interceptor_rot.png
 headerImage: artwork/interceptor.jpeg
 content:
   -
     type: text
-    text: >
+    text: 
+en: >
       A fast and powerful Cerberus ship that can simultaneously fire against 4 enemy ships.
+pl: >
+      Szybki i potężny myśliwiec przechwytujący mogący atakować do 4 celów jednocześnie.
 
   -
     type: text
-    text: >
+    text: 
+
+en: >
       In public Red Stars, it will only fire on the support ships of the player who activated it.
 
+pl: >
+      W publicznych RS'ach zaatakuje jedynie statki gracza, który go aktywował.
   -
     type: text
-    text: >
+    text: 
+
+en: >
       The Interceptor will become activated when an enemy ship enters it's assigned sector. Once activated, it will hunt down enemy ships across all sectors, making it very dangerous against non-combat ships.
+
+pl: >
+      Myśliwiec zostaje aktywowany gdy wrogi statek naruszy jego sektor. Raz sprowokowany, będzie ścigał przeciwników po całej mapie, czyniąc go wyjątkowo niebezpiecznym dla statków wsparcia.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Interceptor
+
+-
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
