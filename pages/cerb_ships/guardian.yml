@@ -1,21 +1,33 @@
-title: Cerberus Guardian
-subtitle: Cerberus Guardian
+title: 
+en: Cerberus Guardian
+pl: Strażnik Cerberów
+subtitle: 
+en: Cerberus Guardian
+pl: Strażnik Cerberów
 type: page
 icon: icons/ships/Cerberus_Guardian_rot.png
 headerImage: artwork/guardian.jpeg
 content:
   -
     type: text
-    text: >
+    text: 
+en: >
       A strong ship that Cerberus often use to provide cover for Sentinels.
-
+pl: >
+      Silny statek często wykorzystywany przez Cerberów do osłony Wartowników.
   -
     type: text
-    text: >
+    text: 
+en: >
       Guardians always stay within their assigned sector.
-
+pl:>
+      Strażnicy zawsze pozostają w swoich sektorach.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Guardian
-
+-
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
