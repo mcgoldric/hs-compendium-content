@@ -45,5 +45,6 @@ content:
     sheet: Bomber
   -
     type: text
-      en:
-      pl: Polish translation by Kaszanka (Should be in polish)
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
