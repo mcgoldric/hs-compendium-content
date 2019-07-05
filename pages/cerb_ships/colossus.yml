@@ -10,20 +10,25 @@ headerImage: artwork/colossus.jpeg
 content:
   -
     type: text
-    text: >
-      en: A massive Cerberus ship that requires a lot of firepower and coordination to bring down.
-      pl: Jest to ciężki okręt, którego zniszczenie wymaga mnóstwo siły ognia oraz koordynacji.
+    text: 
+      en: >
+A massive Cerberus ship that requires a lot of firepower and coordination to bring down.
+      pl: >
+Jest to ciężki okręt, którego zniszczenie wymaga mnóstwo siły ognia oraz koordynacji.
 
   -
     type: text
-    text: >
-      en: This ship will always stay in it's assigned sector.
-      pl: Kolos nigdy nie opuszcza swojego sektora.
+    text: 
+      en: >
+This ship will always stay in it's assigned sector.
+      pl: >
+Kolos nigdy nie opuszcza swojego sektora.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Colossus
 -
     type: text
-    en:
-    pl: Polskie tłumaczenie: Kaszanka
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
