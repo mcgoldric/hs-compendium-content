@@ -1,20 +1,39 @@
-title: Cerberus Storm
-subtitle: Cerberus Storm
+title: 
+en: Cerberus Storm
+pl: Sztorm Cerberów
+subtitle: 
+en: Cerberus Storm
+pl: Sztorm Cerberów
 type: page
 icon: icons/ships/storm.png
 headerImage: artwork/storm.jpg
 content:
   -
     type: text
-    text: >
+    text: 
+
+en: >
       This ship always follows a circular path within its sector. It is equipped with a powerful
       long range weapon that regularly launches fast Dart missiles against all enemy ships in range.
+pl: >
+      Ten okręt zawsze krąży po kolistej trasie wewnątrz swojego sektora. Jest wyposażony w potężną,
+      długodystansową broń z której regularnie wystrzeliwane są szybkie rakiety w kierunku wszystkich wrogich statków w zasięgu.
   -
     type: text
-    text: >
-      The Storm appears in Red Stars level 9 and higher.
+    text: 
 
+en: >
+      The Storm appears in Red Stars level 9 and higher.
+pl: > 
+      Sztorm Cerberów można spotkać w RS'ach 9 i wyższych.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Storm
+
+-
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
+
