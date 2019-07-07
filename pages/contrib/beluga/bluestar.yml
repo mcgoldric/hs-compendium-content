@@ -1,5 +1,9 @@
-title: Blue Stars
-subtitle: Blue Stars
+title: 
+en: Blue Stars
+pl: Niebieskie Gwiazdy
+subtitle: 
+pl: Blue Stars
+en: Niebieskie Gwiazdy
 type: page
 icon: icons/stations/bluestar.png
 content:
@@ -8,25 +12,48 @@ content:
   - type: attrib
     text: by Blazing Beluga
   - type: text
-    text: >
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
+
+
+  - type: text
+    text: 
+en: >
       Blue Stars are a short 5 minute PvP battle in which five players and/or AI controlled battleships fight
       till the last ship standing. The star is filled with cerbs and continuously collapses.
+pl: >
+      Niebieskie Gwiazdy są krótkimi, 5-cio minutowymi walkami PvP w których pięciu zawodników (w tym przynajmniej jeden kontrolowany przez AI)
+      rywalizuje ze sobą dopóki nie pozostanie tylko jeden. Mapa jest wypełniona statkami Cerberów, a także w sposób ciągły zapada się.
+
   - type: image
     image: contrib/beluga/fig1.png
   - type: text
-    text: >
+    text: 
+
+en: >
       If a ship enters the center sector of the star, it will inflict 150 damage every second. The outer blue ring
       shows where the star has collapsed up to. Anything that goes past the blue ring dies instantly. The red zone
       signifies how far the star will collapse and everything inside the zone as it collapses dies instantly. You can
       tell it your ship or other ships are in the red zone or not by a little dot in the center of the ship.
+pl: >
+      Statki, które znajdą się w centralnym punkcie mapy otrzymają 150 obrażeń na sekundę. Zewnętrzny, niebieski krąg
+      pokazuje, gdzie przebiega granica kolejnego zapadnięcia. Wszystkie obiekty poza tym kręgiem są natychmiast niszczone.
+      Czerwona kropka mrugająca w centralnym punkcie statku pokazuje, czy znajduje się on w zagrożonej strefie.
 
 
+en: >
       Each day, you can earn rewards from playing blue stars. Winning first place with a non-sanced ship awards
       you 90% of the ships and mod cost. If you lose with a non-sanced ship, you will be refunded 90% of the rebuild
       cost back so if you win 1/10 blue stars, you will break even. You can also earn 25% of your hydrogen storage
       with sanced or non-sanced ships so it is recommended that you use a non-sanced ship to earn the daily credit
       reward and then use a sanced ship to earn the rest of the hydro.
 
+pl: >
+     Walki w Niebieskich Gwiazdach są nagradzane dziennymi nagrodami. Zajęcie pierwszego miejsca statkiem niewyposażonym w moduł Sanktuarium
+     zostaje nagrodzone Kredytami w wysokości 90% wartości statku (wraz z modułami). Przegrana takim statkiem wiąże się z otrzymaniem 90% refundacji
+     na odbudowę utraconego statku. Łatwo więc zauważyć, że należy wygrać przynajmiej jedną walkę na dziewięć, by mieć dzienny zysk. 
+     Wygrana za 10-tym razem daje bilans zerowy. Gra statkami wyposażonymi w moduł Sanktuarium nie przynosi dochodu w Kredytach. Pytanie
 
       Players will also earn star fragments while playing which can be used to climb the bls leaderboards and can
       also be used for the shipment relay station. A bls season lasts one month and players are rewarded crystals at
@@ -125,3 +152,4 @@ content:
       I hope this guide will help you with blue stars.
 
       Keep spreading the Beluga Love! 🔥🐋
+
