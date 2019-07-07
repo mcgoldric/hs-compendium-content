@@ -1,20 +1,36 @@
-title: Cerberus Sentinel
-subtitle: Cerberus Sentinel
+title: 
+en: Cerberus Sentinel
+pl: Wartownik Cerberów
+subtitle: 
+en: Cerberus Sentinel
+pl: Wartownik Cerberów
 type: page
 icon: icons/ships/Cerberus_Sentinel_rot.png
 headerImage: artwork/sentinel.jpeg
 content:
   -
     type: text
-    text: >
+    text: 
+en: >
       Sentinels have weak hulls but are equipped with a very powerful Battery. They pose little threat individually, but are deadly in large numbers or when covered behind stronger Cerberus ships.
-
+pl: >
+      Wartownicy to słabo opancerzone statki wyposażone w ciężkie Działka Bojowe. Pojedynczo nie stanowią wielkiego zagrożenia, lecz są śmiercionośne w większej liczbie lub osłaniane przez silniejsze statki.
   -
     type: text
-    text: >
-      Sentinels will always stay within their assigned sector.
+    text: 
 
+en: >
+      Sentinels will always stay within their assigned sector.
+pl: >
+      Wartownicy nie opuszczają swoich sektorów.
   -
     type: excel-table
     filename: tables/ships.xlsx
     sheet: Sentinel
+
+-
+    type: text
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
+
