@@ -53,25 +53,54 @@ pl: >
      Walki w Niebieskich Gwiazdach są nagradzane dziennymi nagrodami. Zajęcie pierwszego miejsca statkiem niewyposażonym w moduł Sanktuarium
      zostaje nagrodzone Kredytami w wysokości 90% wartości statku (wraz z modułami). Przegrana takim statkiem wiąże się z otrzymaniem 90% refundacji
      na odbudowę utraconego statku. Łatwo więc zauważyć, że należy wygrać przynajmiej jedną walkę na dziewięć, by mieć dzienny zysk. 
-     Wygrana za 10-tym razem daje bilans zerowy. Gra statkami wyposażonymi w moduł Sanktuarium nie przynosi dochodu w Kredytach. Pytanie
+     Wygrana za 10-tym razem daje bilans zerowy. Gra statkami wyposażonymi w moduł Sanktuarium nie przynosi dochodu w Kredytach. Zaleca się, aby
+     używać statków bez modułu sanktuarium do czasu utrzymania dziennego przychodu w kredytach, następnje statku z modułem do otrzymania dziennych nagród w postaci hydro.
 
+en: >
       Players will also earn star fragments while playing which can be used to climb the bls leaderboards and can
       also be used for the shipment relay station. A bls season lasts one month and players are rewarded crystals at
       the end of the season for placing on the leaderboards and for reaching a certain amount of fragments. Players
       that place in 1st, top ten, and top 50 also earn nifty distinctions that go permanently on their profile.
 
+pl: >
+
+      Gracze otrzymują również nagrody w postaci gwiezdnych fragmentów, które wyznaczają pozycję gracza w rankingu oraz
+      służą do uruchomienia Stacji Przekaźnikowej. Sezon Niebieskich Gwiazd trwa 1 miesiąc, na końcu każdego z nich gracze 
+      są nagradzani kryształami za zdobycie odpowiedniej liczby fragmentów. Zajęcie pierwszej pozycji w rankingach 
+      lub znalezienie się w najlepszej 10-siątce lub 50-siątce graczy danego sezonu jest nagradzane odpowiednimi odznaczeniami
+      w ich profilach.
+
+en: >
 
       Tactics:
 
+pl: >
+
+      Taktyka:
+
+en: >
 
       The best strategy is to AVOID ALL ENGAGEMENTS until absolutely necessary. The point of blue stars is to come
       out on top as the last survivor. Hugging the edge and avoiding cerbs and/or other battleships will keep your
       ship healthy and happy.
 
+pl: >
+
+      Najlepszą strategią jest UNIKANIE WSZELKICH ZAGROŻEŃ dopóki nie jest to konieczne. Ideą rozgrywki jest pozostanie
+      na planszy jako ostatni gracz. Przytulanie się do krawędzi mapy oraz unikanie Cerberów i innych graczy sprawi, 
+      że twój Pancernik pozostanie w dobrym zdrowiu i szczęściu.
+
+en: >
 
       Luring/pointing cerbs is a nice and easy way to save health and clear a sector. To lure, simply move into a
       sector one ring before the zone closes. The cerbs will come towards you and will die instantly as they move
       outside the zone.
+
+pl: >
+
+      Wabienie Cerberów na krawędź mapy aby zostały zniszczone po zapadnięciu mapy jest prostą i skuteczną metodą do 
+      oczyszczenia sektora. 
+
   - type: image
     image: contrib/beluga/fig2.png
   - type: text
