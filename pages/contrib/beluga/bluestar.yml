@@ -1,5 +1,9 @@
-title: Blue Stars
-subtitle: Blue Stars
+title: 
+en: Blue Stars
+pl: Niebieskie Gwiazdy
+subtitle: 
+pl: Blue Stars
+en: Niebieskie Gwiazdy
 type: page
 icon: icons/stations/bluestar.png
 content:
@@ -8,54 +12,121 @@ content:
   - type: attrib
     text: by Blazing Beluga
   - type: text
-    text: >
+    en: >
+    pl: >
+Polskie tłumaczenie: Kaszanka
+
+
+  - type: text
+    text: 
+en: >
       Blue Stars are a short 5 minute PvP battle in which five players and/or AI controlled battleships fight
       till the last ship standing. The star is filled with cerbs and continuously collapses.
+pl: >
+      Niebieskie Gwiazdy są krótkimi, 5-cio minutowymi walkami PvP w których pięciu zawodników (w tym przynajmniej jeden kontrolowany przez AI)
+      rywalizuje ze sobą dopóki pozostanie tylko jeden. Mapa jest wypełniona statkami Cerberów, a także w regularnie zapada się (zmniejsza).
+
   - type: image
     image: contrib/beluga/fig1.png
   - type: text
-    text: >
+    text: 
+
+en: >
       If a ship enters the center sector of the star, it will inflict 150 damage every second. The outer blue ring
       shows where the star has collapsed up to. Anything that goes past the blue ring dies instantly. The red zone
       signifies how far the star will collapse and everything inside the zone as it collapses dies instantly. You can
       tell it your ship or other ships are in the red zone or not by a little dot in the center of the ship.
+pl: >
+      Statki, które znajdą się w centralnym punkcie mapy otrzymają 150 obrażeń na sekundę. Zewnętrzny, niebieski krąg
+      pokazuje, gdzie przebiega granica kolejnego zapadnięcia. Wszystkie obiekty poza tym kręgiem są natychmiast niszczone.
+      Czerwona kropka mrugająca w centralnym punkcie statku pokazuje, czy znajduje się on w zagrożonej strefie.
 
 
+en: >
       Each day, you can earn rewards from playing blue stars. Winning first place with a non-sanced ship awards
       you 90% of the ships and mod cost. If you lose with a non-sanced ship, you will be refunded 90% of the rebuild
       cost back so if you win 1/10 blue stars, you will break even. You can also earn 25% of your hydrogen storage
       with sanced or non-sanced ships so it is recommended that you use a non-sanced ship to earn the daily credit
       reward and then use a sanced ship to earn the rest of the hydro.
 
+pl: >
+     Walki w Niebieskich Gwiazdach są nagradzane dziennymi nagrodami. Zajęcie pierwszego miejsca statkiem niewyposażonym 
+     w moduł Sanktuarium zostaje nagrodzone Kredytami w wysokości 90% wartości statku (wraz z modułami). Przegrana takim 
+     statkiem wiąże się z otrzymaniem 90% refundacji na odbudowę utraconego statku. Łatwo więc zauważyć, że należy wygrać 
+     przynajmiej jedną walkę na dziewięć, by mieć dzienny zysk. Wygrana za 10-tym razem daje bilans zerowy. Gra statkami 
+     wyposażonymi w moduł Sanktuarium nie przynosi dochodu w Kredytach. Zaleca się, aby używać statków bez modułu 
+     sanktuarium do czasu utrzymania dziennego przychodu w kredytach, następnje statku z zainstalowanym modułem do otrzymania 
+     dziennych nagród w postaci hydro.
 
+en: >
       Players will also earn star fragments while playing which can be used to climb the bls leaderboards and can
       also be used for the shipment relay station. A bls season lasts one month and players are rewarded crystals at
       the end of the season for placing on the leaderboards and for reaching a certain amount of fragments. Players
       that place in 1st, top ten, and top 50 also earn nifty distinctions that go permanently on their profile.
 
+pl: >
+
+      Gracze otrzymują również nagrody w postaci Gwiezdnych Fragmentów, które wyznaczają pozycję gracza w rankingu oraz
+      służą do uruchomienia Stacji Przekaźnikowej. Sezon Niebieskich Gwiazd trwa 1 miesiąc, na końcu każdego z nich gracze 
+      są nagradzani kryształami za zdobycie odpowiedniej liczby fragmentów. Zajęcie pierwszej pozycji w rankingach 
+      lub znalezienie się w najlepszej 10-siątce lub 50-siątce graczy danego sezonu jest nagradzane odpowiednimi odznaczeniami
+      w ich profilach.
+
+en: >
 
       Tactics:
 
+pl: >
+
+      Taktyka:
+
+en: >
 
       The best strategy is to AVOID ALL ENGAGEMENTS until absolutely necessary. The point of blue stars is to come
       out on top as the last survivor. Hugging the edge and avoiding cerbs and/or other battleships will keep your
       ship healthy and happy.
 
+pl: >
+
+      Najlepszą strategią jest UNIKANIE WSZELKICH ZAGROŻEŃ dopóki nie jest to konieczne. Ideą rozgrywki jest pozostanie
+      na planszy jako ostatni gracz. Przytulanie się do krawędzi mapy oraz unikanie Cerberów i innych graczy sprawi, 
+      że twój Pancernik pozostanie w dobrym zdrowiu i szczęściu.
+
+en: >
 
       Luring/pointing cerbs is a nice and easy way to save health and clear a sector. To lure, simply move into a
       sector one ring before the zone closes. The cerbs will come towards you and will die instantly as they move
       outside the zone.
+
+pl: >
+
+      Wabienie Cerberów na krawędź mapy aby zostały zniszczone po zapadnięciu mapy jest prostą i skuteczną metodą do 
+      oczyszczenia sektora. Aby zwabić Cerbera, należy po prostu ruszyć w część mapy mającą się niedlugo zapaść. Gdy Cerbery
+      podążą za tobą, jedyne co musisz zrobić, to wyjść spoza zagrożonego obszaru. Cerbery po zapadnięciu mapy ulegną 
+      automatycznemu zniszczeniu.
+
   - type: image
     image: contrib/beluga/fig2.png
   - type: text
     text: >
+    en: >
       To point, set your ship's course to the asteroid closest to the ring/in the red zone. Make sure your ship
       doesn't depart on its course. You may have to cancel the course and repeat it until the cerb decides to move.
-      (Pointing doesn't work on interceptors)
+      Pointing doesn't work on interceptors.
+      
+      pl: >
+      
+      Innym sposobem jest celowanie. Aby wycelować, należy ustawić kurs twojego pancernika w kierunku asteroidy 
+      najbliżej zapadającego się kręgu (w czerwonej strefie). Upewnij się, że statek nie ruszy w tamtą stronę!
+      Przed końcem okresu przygotowawczego skasuj ruch i ponownie ustaw w tym samym kierunku. akcję powtarzaj 
+      do momentu aż Cerber ruszy w wskazanym kierunku.
+      Zwróć uwagę, że celowanie nie działa na myśliwce przechwytujące.
   - type: image
     image: contrib/beluga/fig3.png
   - type: text
     text: >
+    
+    en: >
       Once you reach the final circles things get intense. For one, the lone battleship may have called all his
       interceptor friends but decided to leave making you the host for their party. Avoiding contact still applies
       here. Try to stay away from activated interceptors and find an asteroid close to the center sector to
@@ -63,11 +134,26 @@ content:
       Remember that asteroids in the red zone will disappear when they circle collapses so you may have to set your
       course early. Use any remaining mods to kill other ships and keep yourself alive as long as possible.
 
+pl: pl: >
+      
+     Atmosfera zagęszcza się w ostatnich kręgach mapy. Przykładowo, Samotny Pancernik (sterowany przez AI) może aktywować
+     myśliwce przechwytujące i zwiać, czyniąc z ciebie ich cel. Unikanie kontaktu wciąż jest twoim celem. Staraj się unikać
+     myśliwców i znaleźć sobie asteroidę blisko centrum mapy. Ustaw najdłuższy możliwy kurs przez centrum mapy by przetrwać 
+     jak najdłużej. Pamiętaj, że asteroidy w czerwonym polu znikną gdy zapadnie się krąg mapy, więc może być konieczne ustawienie 
+     kursu wcześniej. Wykorzystaj wszystkie pozostałe moduły by pokonać pozostałe przy życiu statki samemu pozostająć niezniszczonym.
+     
+     en: >
 
       At the end, when there are no asteroids remaining, destiny will act like a mini emp,  keeping you from going
       out of bounds longer. It can also be used at this stage to break a Bond on your BS, keeping your ship in place
       until the end of the Blue Star.
 
+pl: >
+
+      Na koniec, gdy nie będzie już asteroid do których mógłbyś się udać, moduł Przeznaczenie zadziała jak mini EMP, zatrzymując twój
+      statek w miejscu aktywowania. Może też zniwelować działanie Związania.
+
+en: >
 
       Weapons:
 
@@ -77,7 +163,18 @@ content:
 
       🐋 Batt and Laser are the most viable weapon options as they deal the most damage in most circumstances.
 
+pl: >
 
+Broń:
+
+      🐋 Słabe działko, Multi działko, Działko zaporowe nie są przydatne w tym trybie rozgrywki.
+      
+      🐋 Podwójny laser jest przydatny - pozwala zwalczać wiele celów jednocześnie.
+      
+      🐋  Działko i Laser sprawdzają się najlepiej w większości sytuacji.
+
+en: >
+      
       Shields:
 
       🐋 Don't use Area or Blast shield
@@ -90,6 +187,22 @@ content:
 
       🐋 Omega Shield is your best bet for protection as it offers the most hp and requires less hydro to activate than mirror.
 
+pl: >
+
+      Tarcze:
+      
+     🐋 Nie używaj tarczy obszarowej i antyrakietowej.
+     
+     🐋 Tarcze Alpha i Delta nie są przydatne - mają za małą moc.
+     
+     🐋 Tarcza pasywna nie potrzebuje dodatkowego paliwa do aktywacji co czyni ją przydatną.
+     
+     🐋 Tarcza lustrzana może być przydatna, jednakże musiałaby być porządnie ulepszona. Poza tym jest kosztowna w aktywacji.
+     
+     🐋 Tarcza Omega jest najlepsza jeżeli chodzi o zapewnienie ochrony. Oferuje najwięcej PZ i jest tańsza w aktywacji 
+         od tarczy lustrzanej.
+         
+en: >
 
       Support Mods:
 
@@ -117,11 +230,56 @@ content:
 
       🐋 Omega Rocket - Only a few people have this mod unlocked but I'm guessing it's definitely viable because of the massive damage it deals.
 
+pl: >
 
+Moduły wsparcia:
+
+     🐋  RSE, Skok i Jedność w Niebieskich gwiazdach są nieprzydatne.
+     
+     🐋 Niewidzialność, Forteca, Impuls, Powstrzymanie, rakieta Delta, Dron Alpha i Zemsta mogą być przydatne, ale są inne moduły,
+        które sprawdzą się lepiej.
+        
+     🐋 EMP - jeden z najprzydatniejszych modułów w NG. Ma różnorodne zastosowania od zatrzymania przeciwnika w zapadającym się kręgu po 
+        zatrzymanie w kręgu centralnym zapewniające dodatkowe sekundy przeżycia.
+        
+     🐋 Teleport - kolejny przydatny moduł. Może być wykorzystany do aktywowania myśliwców i ucieczki w bezpieczne miejsce. Dobrze sprawdza
+        się w zestawie z Związaniem i Przeznaczeniem.
+     
+     🐋 Automatyczna naprawa - przydatna by odzyskać PZ i utrzymać się grze chwilę dłużej
+     
+     🐋 Zniekształcenie czasu - Przydatny moduł. Przyśpiesza chłodzenie tarcz pozwalając na ich kolejne wykorzystanie w końcowym etapie rozgrywki.
+        Pozwala też na skrócenie działania EMP (gdy zostałeś zatrzymany w zapadającym się kręgu) i generalnie na szybkie przemieszczanie po mapie.
+        
+     🐋 Rakieta Alpha - przyjemny sposób na oczyszczenie rejonu z Cerberów lub innych graczy.
+     
+     🐋 Ocalenie - przywraca PZ dzięki czemu możesz aktywować tarczę później.
+     
+     🐋 Przeznaczenie - Zadaje spore obrażenia przeciwnikom jednocześnie umożliwiając bezpieczne oddalenie się w losowe miejsce.
+        Używaj roztropnie, możesz wylądować pomiędzy Cerberami lub w zapadającym się kręgu, a twój statek będzie przez chwilę 
+        wyłączony.
+        
+     🐋 Bariera - dużo słabsza w NG ze względu na skrócony czas działania, jednak wciąż przydatna.
+     
+     🐋 Związanie - przydatny moduł przy wypychaniu przeciwników poza obszar mapy. Ładnie współgra z teleportem.
+     
+     🐋 Rakieta Omega - niewielu graczy ma odblokowany ten moduł. Powinien być przydatny ze względu na zadawane obrażenia.
+    
+     
   - type: image
     image: contrib/beluga/beluga.jpg
   - type: text
     text: >
+    
+    en: >
+    
       I hope this guide will help you with blue stars.
 
       Keep spreading the Beluga Love! 🔥🐋
+
+     pl: >
+     
+     Mam nadzieję, że ten przewodnik pomoże Ci w rozgrywkach Niebieskich Gwiazd.
+     
+     Rozpowszechniaj do woli, Pozdro! Beluga
+     
+     Tłumaczenie: Kaszanka
