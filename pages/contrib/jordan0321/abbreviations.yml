@@ -1,16 +1,28 @@
-title: Hades' Star Lingo
-subtitle: Hades' Star Lingo
+title: 
+en: Hades' Star Lingo
+pl: Słowniczek Hades Star
+subtitle: 
+en: Hades' Star Lingo
+pl: Słowniczek Hades Star
+
 type: page
 icon: icons/compendium/lingo_drew_2.png
 # icon: contrib/jordan0321/book.png
 content:
   - type: title
-    text: Common shorthand used in the Hades' Star Community
+    text: 
+    en: > Common shorthand used in the Hades' Star Community
+    pl: > Najczęściej używane skróty w grze
   - type: attrib
-    text: compiled by [BSO] jordan and Xentar
+    text: 
+    en: > compiled by [BSO] jordan and Xentar
+    pl: > opracowane przez [BSO] jordan oraz Xentar.
+          tłumaczenie na polski: Kaszanka
 
   - type: markdown
     text: |
+      
+      en: > 
       **General**
       CD : Cooldown
       HSO : Hades Star Official Discord
@@ -19,7 +31,18 @@ content:
       gc : Galaxy Chat
       H, hydro : Hydrogen
       cap : Credit Storage Capacity
-
+      
+      pl: > 
+      **Ogólne**
+      CD: Cooldown - odnowienie (czas potrzebny do ponownego użycia modułu aktywnego)
+      HSO : Hades Star Official Discord - oficjalne forum gry na Discord
+      alt : Alternate Account - alternatywne / dodatkowe konto w grze (np. jedno na telefonie, drugie na Steam)
+      bps : Blueprints - Schematy (potrzebne do odblokowania technologii)
+      gc : Galaxy Chat - Ogólny Chat w grze
+      H, hydro : Hydrogen - czyli paliwo dla statków
+      cap : Credit Storage Capacity - pojemność lokowania Kredytów
+      
+      en: > 
       **Stars/Systems**
       RS : Red Star
       RS# : Red Star Level #
@@ -28,6 +51,17 @@ content:
       BLS : Blue Star
       roid : Asteroid
 
+     pl: > 
+     **Gwiazdy/Systemy**
+      RS : Red Star - Czerwona Gwiazda
+      RS# : Red Star Level # - Czerwona gwiazda poziom # (dotyczy poziomu skanera)
+      YS : Yellow Star (home system) - Żółta Gwiazda (system macierzysty)
+      WS : White Star - Biała Gwiazda
+      BLS : Blue Star - Niebieska Gwiazda
+      roid : Asteroid - Asteroida
+      
+      
+      en: > 
       **Ships**
       BS : Battleship
       BS# : Battleship Level #
@@ -39,6 +73,19 @@ content:
       int : Cerberus Interceptor
       colo : Cerberus Colosus
 
+      pl: > 
+      **Statki**
+      BS : Battleship - Pancernik
+      BS# : Battleship Level # - Pancernik poziom #
+      TS : Transport - Transporter
+      TS# : Transport Level # - Transporter poziom #
+      MS : Miner - Statek wydobywczy
+      MS# : Miner Level # - Statek wydobywczy poziom #
+      sent : Cerberus Sentinel - Wartownik Cerberów
+      int : Cerberus Interceptor - Myśliwiec Cerberów
+      colo : Cerberus Colosus - Kolos Cerberów
+
+      en : > 
       **Stations**
       RSS : Red Star Scanner
       BLSS : Blue Star Scanner
@@ -50,6 +97,19 @@ content:
       Diplo : Diplomacy Station
       SY : Shipyard
 
+      pl : > 
+      **Stacje**
+      RSS : Red Star Scanner - Skaner Czerwonych Gwiazd
+      BLSS : Blue Star Scanner - Skaner Niebieskich Gwiazd
+      WSS : White Star Scanner - Skaner Białych Gwiazd
+      WL : Warp Lane - Link między sektorami
+      TSS : Trade Station - Stacja handlowa
+      TM : Time Modulator (or Time Machine in WS) - Modulator czasu (albo Maszyna Czasu w Białych Gwiazdach)
+      SRS : Short Range Scanner - Skaner pobliskich sektorów
+      Diplo : Diplomacy Station - Ambasada
+      SY : Shipyard - Stocznia
+
+      en: > 
       **Modules**
       CBE : Cargo Bay Extension
       Cargo# - Cargo Bay Extension Level #
@@ -67,22 +127,65 @@ content:
       RR : Remote Repair
       TW : Time Warp
       gen : Genesis
-
+      
+      pl: >
+      **Moduły**
+      CBE : Cargo Bay Extension - Powiększenie ładowni
+      Cargo# - Cargo Bay Extension Level # - Powiększenie ładowni poziom #
+      Comp : Shipment Computer - Komputer pokładowy
+      HBE : Hydrogen Bay Extension - Powiększenie zbiorników Hydrogenu
+      Batt : Battery - Ciężkie działko bojowe
+      Mass : Mass Battery - Wielolufowe działko bojowe
+      Dual, dl : Dual Laser - Podwójny laser
+      TP / Tele : Teleport - Teleport
+      RSE / RSLE / RSX : Red Star Life Extender - Przedłuża czas życia Czerwonej Gwiazdy
+      RemRep / RR : Remote Repair - Zdalna naprawa
+      TW : Time Warp - Zakrzywienie przestrzeni
+      gen : Genesis - Genesis
+      
+      en: >
       **Other Terms of Interest**
       dps : Damage Per Second
       dph : Damage Per Hour
       tet : Tetrahedron
       frag : Star Fragments (from bls)
 
+      pl: >
+      **Pozostałe**
+      dps : Damage Per Second - Obrażenia na sekundę
+      dph : Damage Per Hour - Obrażenia na godzinę
+      tet : Tetrahedron - Tetrahedron (fioletowy artefakt)
+      frag : Star Fragments (from bls) - Gwiezdny Fragment (z Niebieskich Gwiazd)
+      
+      en : >
       **“crystal it”**
       > To pay for something with crystals (i.e. time, tech, credits, etc.)
 
+     pl : >
+      **“crystal it”** - "skrystalizuj"
+      > Zapłać kryształami (by przyśpieszyć badanie, zwiększyć ilość Kredytów, Hydrogenu itp.)
+
+      en : >
       **griefer**
       > One that tries to cause other players harm
-
+      
+      pl : >
+      **griefer** - troll
+      > Czyli ten co przeszkadza innym czerpać przyjemność z gry.
+      
+      en : >
       **int nest**
       > A sector full of ints (rs6 and above)
+      
+      pl : >
+      **int nest** - gniazdo myśliwców
+      > Sektor pełen myśliwców Cerberów (w RS6 i wyższych)
 
+      en : >
       **squishies**
       > Support ships (i.e. transports and miners)
+      
+      pl : >
+      **squishies** - pchełki
+      > Potoczna nazwa transporterów i statków wydobywczych
 
