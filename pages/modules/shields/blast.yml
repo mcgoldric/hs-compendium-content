@@ -1,16 +1,28 @@
-title: Blast Shield
-subtitle: Blast Shield
+title: 
+en: Blast Shield
+pl: Tarcza antyrakietowa
+subtitle: 
+en: Blast Shield
+pl: Tarcza antyrakietowa
 type: page
 icon: icons/modules/shields/blast.png
 tech: blast-shield
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Protects the owner ship and all friendly ships within range against Area damage only.
       Direct weapon damage is not absorbed by this shield and is applied directly to the hull of the ship.
+    pl: >
+      Chroni statek i wszystkie sojusznicze jednostki w zasięgu przed obrażeniami obszarowymi.
+      Obrażenia bezpośrednie nie są pochłanianie i są odbierane bezpośrednio przez kadłub jednostki.
   - type: text
-    text: >
+    text: 
+    en: >
       The blueprints can be found by researching Orb (level 6+) artifacts.
+    pl: >
+      Schematy można zdobyć badając artefakty Orb (poziom 6+).
+      
   - type: excel-table
     filename: tables/shields.xlsx
     sheet: Blast
