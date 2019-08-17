@@ -1,15 +1,27 @@
-title: Omega Shield
-subtitle: Omega Shield
+title: 
+en: Omega Shield
+pl: Tarcza Omega
+subtitle: 
+en: Omega Shield
+pl: Tarcza Omega
 type: page
 icon: icons/modules/shields/omega.png
 tech: omega-shield
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Absorbs incoming damage until it is depleted or the activation time runs out.
+    pl: >
+      Pochłania otrzymane obrażenia do czasu aż się zużyje lub skończy się czas aktywacji.
+      
   - type: text
-    text: >
+    text: 
+    en: >
       The blueprints can be found by researching Orb (level 4+) artifacts.
+    pl: >
+      Schematy można zdobyć badając artefakty Orb (poziom 4+).
+      
   - type: excel-table
     filename: tables/shields.xlsx
     sheet: Omega
