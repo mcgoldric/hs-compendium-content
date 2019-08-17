@@ -1,21 +1,34 @@
-title: Passive Shield
+title: 
+en: Passive Shield
+pl: Tarcza Pasywna
 subtitle: Passive Shield
+pl: Tarcza Pasywna
 type: page
 icon: icons/modules/shields/passive.png
 tech: passive-shield
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       A shield that is always active and slowly recharges over time.
+    pl: >
+      Tarcza pozostaje ciągle aktywna. Moc powoli powraca w czasie.
 
   - type: text
-    text: >
+    text: 
+    en: >
       The shield only starts regenerating after it has stopped receiving damage for an amount of time
       equal to the Regeneration Delay (1m12s). It takes 2m24s to fully regenerate.
-
+    pl: >
+      Tarcza rozpoczyna proces regenracji po zaprzestaniu otrzymywania obrażeń odpowiednio do czasu opóźnienia (1m12s).
+      Pełna regeneracja zajmuje 2m24s.
+      
   - type: text
-    text: >
+    text: 
+    en: >
       The blueprints can be found by researching Orb (level 3+) artifacts.
+    pl: >
+      Schematy można zdobyć badając artefakty Orb (poziom 3+).
   - type: excel-table
     filename: tables/shields.xlsx
     sheet: Passive
