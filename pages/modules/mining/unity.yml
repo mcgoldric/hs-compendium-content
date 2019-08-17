@@ -1,15 +1,28 @@
-title: Mining Unity
-subtitle: Mining Unity
+title: 
+en: Mining Unity
+pl: Górnicza jedność
+subtitle: 
+en: Mining Unity
+pl: Górnicza jedność
 type: page
 icon: icons/modules/mining/miningunity.png
 tech: mining-unity
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Increases mining collection speed for every other player that is mining in the same sector.
+    pl: >
+      Zwiększa prędkość wydobycia statków sojuszniczych będących w tym samym sektorze.
+      
   - type: text
-    text: >
+    text: 
+    
+    en: >
       The blueprints can be found by researching Blue Crystal (level 4+) artifacts.
+    pl: >
+      Schematy można znaleźć badając Niebieskie Kryształy (poziom 4+).
+      
   - type: excel-table
     filename: tables/mining.xlsx
     sheet: Unity
