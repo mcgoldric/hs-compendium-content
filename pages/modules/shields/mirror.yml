@@ -1,15 +1,28 @@
-title: Mirror Shield
-subtitle: Mirror Shield
+title: 
+en: Mirror Shield
+pl: Tarcza lustrzana
+subtitle: 
+en: Mirror Shield
+pl: Tarcza lustrzana
 type: page
 icon: icons/modules/shields/mirror.png
 tech: mirror-shield
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Applies a percentage of the damage taken by this shield back to the attacker.
+    pl: >
+      Odbija część otrzymanych obrażeń w stronę agresora.
+      
   - type: text
-    text: >
+    text: 
+    
+    en: >
       The blueprints can be found by researching Orb (level 5+) artifacts.
+    pl: >
+      Schematy można zdobyć badając artefakty Orb (poziom (5+).
+      
   - type: excel-table
     filename: tables/shields.xlsx
     sheet: Mirror
