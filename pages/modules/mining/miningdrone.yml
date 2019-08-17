@@ -1,22 +1,41 @@
-title: Mining Drone
-subtitle: Mining Drone
+title: 
+en: Mining Drone
+pl: Dron wydobywczy
+subtitle: 
+en: Mining Drone
+pl: Dron wydobywczy
 type: page
 icon: icons/modules/mining/miningdrone.png
 tech: mining-drone
 content:
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Launches an independent ship towards the target asteroid, which must be within range of the miner ship.
       The drone will keep mining from the asteroid until it is depleted or its capacity fills up.
       After the mining is done, the drone will deposit the Hydrogen to the closest planet.
-
+    pl: >
+      Moduł wystrzeliwuje niezależny statek w kierunku asteroidy, która musi być w zasięgu statku wydobywczego.
+      Dron będzie wydobywał Hydrogen z asteroidy dopóki nie wydobędzie całości lub zapełni ładownię.
+      Po zakonczeniu wydobycia, dron wyładuje Hydrogen na najbliższej planecie.
+      
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Does not work in sectors with Jump Gates on White Stars.
+    pl: >
+      Nie działa w sektorach z bramami w Białych Gwiazdach.
 
   - type: text
-    text: >
+    text: 
+    
+    en: >
       The blueprints can be found by researching Blue Crystal (level 9+) artifacts.
+    pl: >
+      Schematy można znaleźć badając Niebieskie Kryształy (poziom 9+).
+      
   - type: excel-table
     filename: tables/mining.xlsx
     sheet: Drone
