@@ -1,15 +1,28 @@
-title: Area Shield
-subtitle: Area Shield
+title: 
+en: Area Shield
+pl: Tarcza Obszarowa
+subtitle: 
+en: Area Shield
+pl: Tarcza Obszarowa
 type: page
 icon: icons/modules/shields/area1.png
 tech: area-shield
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Absorbs hull damage taken by any allied ship in the effect area, including Transports and Miners.
+    pl: >
+      Pochłania obrażenia zadane wszystkim sojuszniczym jednostkom w obszarze działania, włączając w to Transportowce i Statki wydobywcze.
+      
   - type: text
-    text: >
+    text: 
+    
+    en: >
       The blueprints can be found by researching Orb (level 8+) artifacts.
+    pl: >
+      Schematy można zdobyć badająć artefakty Orb (poziom 8+).
+      
   - type: excel-table
     filename: tables/shields.xlsx
     sheet: Area
