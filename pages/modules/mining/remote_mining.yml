@@ -1,15 +1,30 @@
-title: Remote Mining
-subtitle: Remote Mining
+title: 
+en: Remote Mining
+pl: Zdalne wydobycie
+subtitle: 
+en: Remote Mining
+pl: Zdalne wydobycie
+
 type: page
 icon: icons/modules/mining/remotemining.png
 tech: remote-mining
 content:
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Simultaneously mines Hydrogen from all asteroid fields in the same sector, at reduced speed.
+    pl: >
+      Statek wydobywczy pod wpływem działania tego modułu wydobywa Hydrogen ze wszystkich asteroid w danym sektorze, przy zmniejszonej prędkości.
+      
   - type: text
-    text: >
+    text: 
+    
+    en: >
       The blueprints can be found by researching Blue Crystal (level 3+) artifacts.
+    pl: >
+      Schematy można znaleźć badając Niebieskie Kryształy (poziom 3+).
+      
   - type: excel-table
     filename: tables/mining.xlsx
     sheet: RemoteMining
