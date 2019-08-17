@@ -1,15 +1,27 @@
-title: Alpha Shield
-subtitle: Alpha Shield
+title: 
+en: Alpha Shield
+pl: Tarcza Alpha
+subtitle: 
+en: Alpha Shield
+pl: Tarcza Alpha
 type: page
 icon: icons/modules/shields/alpha.png
 tech: alpha-shield
 content:
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Absorbs incoming damage until it is depleted or the activation time runs out.
+    pl: >
+      Absorbuje obrażenia dopóki nie zostanie zużyta lub nie skończy się czas aktywacji.
+      
   - type: text
-    text: >
+    text: 
+    en: >
       The blueprints can be found by researching Orb (level 1+) artifacts.
+    pl: >
+      Schematy można zdobyć badająć artefakty Orb (poziom +1).
   - type: excel-table
     filename: tables/shields.xlsx
     sheet: Alpha
