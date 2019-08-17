@@ -1,16 +1,28 @@
-title: Hydrogen Upload
-subtitle: Hydrogen Upload
+title: 
+en: Hydrogen Upload
+pl: Wyładowanie Hydrogenu
+subtitle: 
+en: Hydrogen Upload
+pl: Wyładowanie Hydrogenu
 type: page
 icon: icons/modules/mining/upload.png
 tech: upload
 content:
   - type: text
-    text: >
+    text: 
+    
+    en: >
       Instantly uploads a percentage of collected Hydrogen to your Empire's reserves,
       without needing to return to a planet.
+    pl: >
+      Natychmiast wyładouje część zebranego Hydrogenu do twoich rezerw imperialnych,
+      bez konieczności powrotu na planetę.
   - type: text
-    text: >
+    text: 
+    en: >
       The blueprints can be found by researching Blue Crystal (level 4+) artifacts.
+    pl: >
+      Schematy można zdobyć badając Niebieskie Kryształy (poiom +4).
   - type: excel-table
     filename: tables/mining.xlsx
     sheet: Upload
