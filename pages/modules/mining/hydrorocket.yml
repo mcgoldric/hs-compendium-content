@@ -1,17 +1,28 @@
-title: Hydrogen Rocket
-subtitle: Hydrogen Rocket
+title: 
+en: Hydrogen Rocket
+pl: Hydro rakieta
+subtitle: 
+en: Hydrogen Rocket
+pl: Hydro rakieta
 type: page
 icon: icons/modules/mining/hydrorocket.png
 tech: hydro-rocket
 content:
   - type: text
-    text: >
+    text: 
+    en: >
       Allows the miner ship to launch a powerful rocket, anywhere in the star system.
+    pl: >
+      Pozwala statkom wydobywczym wystrzeliwywać potężne rakiety w dowolnym kierunku.
 
   - type: text
-    text: >
+    text: 
+    
+    en: >
       To activate, the miner ship must have collected at least the required hydrogen amount. The hydrogen
       is consumed on activation.
+    pl: >
+      Aby aktywowanć moduł, statek wydobywczy musi zebrać odpowiednią ilość Hydrogenu. Hydrogen spala się podczas aktywacji.
 
   - type: excel-table
     filename: tables/mining.xlsx
